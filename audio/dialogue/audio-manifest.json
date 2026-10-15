@@ -1,0 +1,3667 @@
+{
+  "version": 1,
+  "releaseTag": "audio-v1",
+  "repository": "https://github.com/songmeng20/englishpod",
+  "createdDate": "2026-10-15",
+  "license": "https://creativecommons.org/licenses/by/3.0/",
+  "attribution": "EnglishPod (EnglishPod.com), originally published by Praxis Language",
+  "modifications": "Filenames standardized for distribution. MP3 contents and embedded metadata are unchanged.",
+  "summary": {
+    "episodes": 365,
+    "kind": "dialogue",
+    "audioFiles": 365,
+    "audioBytes": 253251745
+  },
+  "files": [
+    {
+      "episode": "EP001",
+      "title": "Difficult Customer",
+      "kind": "dialogue",
+      "filename": "EP001-dialogue.mp3",
+      "bytes": 858804,
+      "sha256": "bd771cbbb48116e01bb49203719e16def0c05b7653f4b00e943493ec99c61497",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP001-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0001dg.mp3"
+    },
+    {
+      "episode": "EP002",
+      "title": "Calling In Sick",
+      "kind": "dialogue",
+      "filename": "EP002-dialogue.mp3",
+      "bytes": 642719,
+      "sha256": "d720a38bf5e646d295de4c1558c26cc8b802e7f422e8c2781d42b3bae24d15bf",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP002-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0002dg.mp3"
+    },
+    {
+      "episode": "EP003",
+      "title": "Hotel Upgrade",
+      "kind": "dialogue",
+      "filename": "EP003-dialogue.mp3",
+      "bytes": 795692,
+      "sha256": "510726d4bd565cb8da8fb35f267ad1cf59a42f8bd367d1f187033cac522219f9",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP003-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0003dg.mp3"
+    },
+    {
+      "episode": "EP004",
+      "title": "I need an assistant!",
+      "kind": "dialogue",
+      "filename": "EP004-dialogue.mp3",
+      "bytes": 905615,
+      "sha256": "2616737beb9cb4830934de41be24d233a30d5bca6245eb9cc1ff3b6d512efc7f",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP004-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0004dg.mp3"
+    },
+    {
+      "episode": "EP005",
+      "title": "Cut In Line",
+      "kind": "dialogue",
+      "filename": "EP005-dialogue.mp3",
+      "bytes": 625165,
+      "sha256": "11dad96ba976d6061eccc7bddbc9cd72d83bd9d8344d6538a283d726a52ab35b",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP005-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0005dg.mp3"
+    },
+    {
+      "episode": "EP006",
+      "title": "Road Trip",
+      "kind": "dialogue",
+      "filename": "EP006-dialogue.mp3",
+      "bytes": 805723,
+      "sha256": "cc259b9478c210b4063f9d0f4d8560038e9f2fc2a71b34805fbaa327489e7c58",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP006-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0006dg.mp3"
+    },
+    {
+      "episode": "EP007",
+      "title": "Virus!",
+      "kind": "dialogue",
+      "filename": "EP007-dialogue.mp3",
+      "bytes": 986281,
+      "sha256": "58d119386dfeaa2b965a6af04afc6f5e1506c67e3fd3fe492a4a1263ef6a67b4",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP007-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0007dg.mp3"
+    },
+    {
+      "episode": "EP008",
+      "title": "What’s your name again?",
+      "kind": "dialogue",
+      "filename": "EP008-dialogue.mp3",
+      "bytes": 721713,
+      "sha256": "5d9a529749a186114faf857beac3b22c2ec6c6bba7eda657decc401a56dc1398",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP008-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0008dg.mp3"
+    },
+    {
+      "episode": "EP009",
+      "title": "Silence please!",
+      "kind": "dialogue",
+      "filename": "EP009-dialogue.mp3",
+      "bytes": 778138,
+      "sha256": "4bce8e5bfd6bc90b0f2e38083dd77f3b6f35e13e2f00b6d176232231ce40d492",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP009-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0009dg.mp3"
+    },
+    {
+      "episode": "EP010",
+      "title": "Driving Sales",
+      "kind": "dialogue",
+      "filename": "EP010-dialogue.mp3",
+      "bytes": 867120,
+      "sha256": "68a479590d7b6d4c4d94c933996b0f9ab67e1922e198963447aa653443268be8",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP010-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0010dg.mp3"
+    },
+    {
+      "episode": "EP011",
+      "title": "New Guy in Town I",
+      "kind": "dialogue",
+      "filename": "EP011-dialogue.mp3",
+      "bytes": 821772,
+      "sha256": "9b9296aea216c4472150b5a190071c632a52245a3d16cca4f51f5b81a199301a",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP011-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0011dg.mp3"
+    },
+    {
+      "episode": "EP012",
+      "title": "Cleaning the House",
+      "kind": "dialogue",
+      "filename": "EP012-dialogue.mp3",
+      "bytes": 857507,
+      "sha256": "5b7cb28ab894e44daf6b334f8836bcd7397dbd540b819e1538d85eae7bf59628",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP012-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0012dg.mp3"
+    },
+    {
+      "episode": "EP013",
+      "title": "Out Of Control Spending",
+      "kind": "dialogue",
+      "filename": "EP013-dialogue.mp3",
+      "bytes": 664013,
+      "sha256": "1c3eb41b695c5d7f955502658482f0221eb5e85f6e47d28c5604363f8495d66b",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP013-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0013dg.mp3"
+    },
+    {
+      "episode": "EP014",
+      "title": "I’m in Debt",
+      "kind": "dialogue",
+      "filename": "EP014-dialogue.mp3",
+      "bytes": 1296407,
+      "sha256": "be8920a6e9b8d7f8cd3390ef21c5719620f4628049abf5b12cd03a4d85a097ea",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP014-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0014dg.mp3"
+    },
+    {
+      "episode": "EP015",
+      "title": "I’m sorry, I love you I",
+      "kind": "dialogue",
+      "filename": "EP015-dialogue.mp3",
+      "bytes": 1124792,
+      "sha256": "08fcdf249c9697b2c3648e8a34100393a5fc33ac75a758919985a6749f9ba0cd",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP015-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0015dg.mp3"
+    },
+    {
+      "episode": "EP016",
+      "title": "Turn left here!",
+      "kind": "dialogue",
+      "filename": "EP016-dialogue.mp3",
+      "bytes": 1107907,
+      "sha256": "6609599e0c8f91301d0891ab959a17c32967c82a5ed348bdb54a6145a0145db4",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP016-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0016dg.mp3"
+    },
+    {
+      "episode": "EP017",
+      "title": "Here Comes the Bride",
+      "kind": "dialogue",
+      "filename": "EP017-dialogue.mp3",
+      "bytes": 717534,
+      "sha256": "e655d1d4cfc45286c498fe2aac26b3765c1ca91c8a7bd930db78dac57f1dab4a",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP017-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0017dg.mp3"
+    },
+    {
+      "episode": "EP018",
+      "title": "Protest!",
+      "kind": "dialogue",
+      "filename": "EP018-dialogue.mp3",
+      "bytes": 911278,
+      "sha256": "c33b78becfbe49aff999e50e54993efc3f900591ee5a5c28a14baac1bf4de35d",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP018-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0018dg.mp3"
+    },
+    {
+      "episode": "EP019",
+      "title": "Christmas Chronicles I",
+      "kind": "dialogue",
+      "filename": "EP019-dialogue.mp3",
+      "bytes": 992717,
+      "sha256": "011e9ce8047b0e51097e27bd84c85ebaeeb35a33ffcb6d559d678ffc6600622b",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP019-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0019dg.mp3"
+    },
+    {
+      "episode": "EP020",
+      "title": "I Can See Clearly Now",
+      "kind": "dialogue",
+      "filename": "EP020-dialogue.mp3",
+      "bytes": 874268,
+      "sha256": "bf277530b5dfdfa73c28857c35cb6dca4ab9670560642fba6bbc915f01da5344",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP020-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0020dg.mp3"
+    },
+    {
+      "episode": "EP021",
+      "title": "What Do You Do?",
+      "kind": "dialogue",
+      "filename": "EP021-dialogue.mp3",
+      "bytes": 933994,
+      "sha256": "db12c5475694e0c81a65a691d08a87477953cfda1c7f55fc754e21809fff07a5",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP021-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0021dg.mp3"
+    },
+    {
+      "episode": "EP022",
+      "title": "Christmas Chronicles II",
+      "kind": "dialogue",
+      "filename": "EP022-dialogue.mp3",
+      "bytes": 860224,
+      "sha256": "fc7c618f0e5f119d2ff08def1768e1e8b24750c061b2f209216d251120ffc769",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP022-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0022dg.mp3"
+    },
+    {
+      "episode": "EP023",
+      "title": "Making an Appointment",
+      "kind": "dialogue",
+      "filename": "EP023-dialogue.mp3",
+      "bytes": 658183,
+      "sha256": "d88343b0de2207786e2c972732a03d6e36c1142cd67e2cbff392e667d8bd9503",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP023-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0023dg.mp3"
+    },
+    {
+      "episode": "EP024",
+      "title": "Where should we eat?",
+      "kind": "dialogue",
+      "filename": "EP024-dialogue.mp3",
+      "bytes": 800707,
+      "sha256": "958e724cdd04c1a77992ce4e4203b59db5db94ae42fbd564655d0ee4378dc763",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP024-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0024dg.mp3"
+    },
+    {
+      "episode": "EP025",
+      "title": "Planning For The Worst",
+      "kind": "dialogue",
+      "filename": "EP025-dialogue.mp3",
+      "bytes": 1008453,
+      "sha256": "f4bd3e101ed2ffb9d26beb91db26e7a6afe08c4c07771e303a933e359876a5bd",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP025-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0025dg.mp3"
+    },
+    {
+      "episode": "EP026",
+      "title": "New Year Resolution",
+      "kind": "dialogue",
+      "filename": "EP026-dialogue.mp3",
+      "bytes": 683093,
+      "sha256": "c763c48f8a5be78f9ba155c5948d6b47ba8ddb774021a2449aef34199a28eca8",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP026-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0026dg.mp3"
+    },
+    {
+      "episode": "EP027",
+      "title": "Asking for Time Off",
+      "kind": "dialogue",
+      "filename": "EP027-dialogue.mp3",
+      "bytes": 570662,
+      "sha256": "05e18433f68151cbacfc804634c7c634061d1c3b3a4d25446edac3d7e5fdb341",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP027-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0027dg.mp3"
+    },
+    {
+      "episode": "EP028",
+      "title": "I’m Sorry, I Love You II",
+      "kind": "dialogue",
+      "filename": "EP028-dialogue.mp3",
+      "bytes": 795879,
+      "sha256": "6b753751f28a73eb00ad6ee9ac97ce5ab4b9f67a767e07a03bfa78c22c9ce60b",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP028-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0028dg.mp3"
+    },
+    {
+      "episode": "EP029",
+      "title": "Investing in Emerging Markets",
+      "kind": "dialogue",
+      "filename": "EP029-dialogue.mp3",
+      "bytes": 895374,
+      "sha256": "be91c6726263523314817407cf6719fc52f80aef1926ec582605005a2aa96317",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP029-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0029dg.mp3"
+    },
+    {
+      "episode": "EP030",
+      "title": "New Guy in Town II",
+      "kind": "dialogue",
+      "filename": "EP030-dialogue.mp3",
+      "bytes": 962227,
+      "sha256": "c2ad12ee7cfac348af8c4ba3103c7ecabe6bcae4d3f545fd3b391595567cdc43",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP030-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0030dg.mp3"
+    },
+    {
+      "episode": "EP031",
+      "title": "Canceling an Appointment",
+      "kind": "dialogue",
+      "filename": "EP031-dialogue.mp3",
+      "bytes": 650701,
+      "sha256": "c50532295826f5154298280229d867026713a648e21671503fb7078076cb7d29",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP031-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0031dg.mp3"
+    },
+    {
+      "episode": "EP032",
+      "title": "Opening a Bank Account",
+      "kind": "dialogue",
+      "filename": "EP032-dialogue.mp3",
+      "bytes": 941935,
+      "sha256": "96a56b8257327313b511c971b340d1fc22187370943e0097712cd09d540af2d4",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP032-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0032dg.mp3"
+    },
+    {
+      "episode": "EP033",
+      "title": "Foul!",
+      "kind": "dialogue",
+      "filename": "EP033-dialogue.mp3",
+      "bytes": 591497,
+      "sha256": "29af869f84b4331041fc5096fbd61e885c05d978644dbae0cafbc7f050c2a9cd",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP033-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0033dg.mp3"
+    },
+    {
+      "episode": "EP034",
+      "title": "Live from Washington",
+      "kind": "dialogue",
+      "filename": "EP034-dialogue.mp3",
+      "bytes": 854853,
+      "sha256": "2e3fb0b9a8abb13fa7792834654cb21ae8e124ecc379fe80b412bcef3f0ecfa3",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP034-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0034dg.mp3"
+    },
+    {
+      "episode": "EP035",
+      "title": "He’s not a Good Fit",
+      "kind": "dialogue",
+      "filename": "EP035-dialogue.mp3",
+      "bytes": 863547,
+      "sha256": "3557c0700298278c9a99c01c50fd19155526fade2b48f329483a1741e3814d83",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP035-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0035dg.mp3"
+    },
+    {
+      "episode": "EP036",
+      "title": "I’m Sorry, I Love You III",
+      "kind": "dialogue",
+      "filename": "EP036-dialogue.mp3",
+      "bytes": 722569,
+      "sha256": "cca5a030be0513c400aa01f07aa4816df2b7eb54a3a4b395fb1b17c56831423f",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP036-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0036dg.mp3"
+    },
+    {
+      "episode": "EP037",
+      "title": "Chinese New Year",
+      "kind": "dialogue",
+      "filename": "EP037-dialogue.mp3",
+      "bytes": 878405,
+      "sha256": "1fb882503420a73fc317c1ff96e9bfe1f0e6059d17ca070ce06392a021f0c0d7",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP037-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0037dg.mp3"
+    },
+    {
+      "episode": "EP038",
+      "title": "Buying a Car",
+      "kind": "dialogue",
+      "filename": "EP038-dialogue.mp3",
+      "bytes": 860433,
+      "sha256": "48a63ebec0534ed2c0d97fd730755a1d266b39d2bd878c62b7cc4b21c592a786",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP038-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0038dg.mp3"
+    },
+    {
+      "episode": "EP039",
+      "title": "My New Boyfriend",
+      "kind": "dialogue",
+      "filename": "EP039-dialogue.mp3",
+      "bytes": 609532,
+      "sha256": "3c2fbf095a89794b82f7f460a5d99ca6cc80a25ac8c04b8295ed2d5d1fa00988",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP039-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0039dg.mp3"
+    },
+    {
+      "episode": "EP040",
+      "title": "Can I ask you a favor?",
+      "kind": "dialogue",
+      "filename": "EP040-dialogue.mp3",
+      "bytes": 624787,
+      "sha256": "8efc2bbf54d123818aba6ad679f0a6989df19a7c9616931661ae472b2fe15d2c",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP040-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0040dg.mp3"
+    },
+    {
+      "episode": "EP041",
+      "title": "Movie Trailer",
+      "kind": "dialogue",
+      "filename": "EP041-dialogue.mp3",
+      "bytes": 1035579,
+      "sha256": "2adb9ea999e177a242a32f93caf06fb46978fa9a0c9c753e6e857dec199bee89",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP041-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0041dg.mp3"
+    },
+    {
+      "episode": "EP042",
+      "title": "I Need More Time",
+      "kind": "dialogue",
+      "filename": "EP042-dialogue.mp3",
+      "bytes": 660314,
+      "sha256": "4dd6a7f01b3b9fe5ebd3d275f327afa96c00acbdd8cffccf028d025a8e23c232",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP042-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0042dg.mp3"
+    },
+    {
+      "episode": "EP043",
+      "title": "Applying for a Visa",
+      "kind": "dialogue",
+      "filename": "EP043-dialogue.mp3",
+      "bytes": 923524,
+      "sha256": "85797cd5e7911a0b783ebfffc907d227755ac01ea21bfc507bb210da675ee331",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP043-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0043dg.mp3"
+    },
+    {
+      "episode": "EP044",
+      "title": "Small Talk",
+      "kind": "dialogue",
+      "filename": "EP044-dialogue.mp3",
+      "bytes": 581947,
+      "sha256": "c5944eb9e1e2c9f7c5be1ed5650882bb168a22a405eb08b5517eb95909d69e2b",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP044-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0044dg.mp3"
+    },
+    {
+      "episode": "EP045",
+      "title": "I’m Sorry I love You IV",
+      "kind": "dialogue",
+      "filename": "EP045-dialogue.mp3",
+      "bytes": 1123183,
+      "sha256": "189b562f48cfce3fe51ca25bd3d6f77c510ef97f4297275d24926c4ae9fadf79",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP045-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0045dg.mp3"
+    },
+    {
+      "episode": "EP046",
+      "title": "Emergency Room",
+      "kind": "dialogue",
+      "filename": "EP046-dialogue.mp3",
+      "bytes": 990000,
+      "sha256": "52407f170f8f10140ff8c460e71a6aac763dfddb4d215db4714c4b34558d9f27",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP046-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0046dg.mp3"
+    },
+    {
+      "episode": "EP047",
+      "title": "Just In Time Strategy",
+      "kind": "dialogue",
+      "filename": "EP047-dialogue.mp3",
+      "bytes": 1133318,
+      "sha256": "92702bc055213f666e66be3cd59e8927b3063331ddfd002e19e9b5c65e32592f",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP047-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0047dg.mp3"
+    },
+    {
+      "episode": "EP048",
+      "title": "Carnival in Rio!",
+      "kind": "dialogue",
+      "filename": "EP048-dialogue.mp3",
+      "bytes": 792305,
+      "sha256": "7299839f63c3ebb64e7c0746d2f40fc29c0720ed9310a275a242df203f59252b",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP048-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0048dg.mp3"
+    },
+    {
+      "episode": "EP049",
+      "title": "Daddy Please!",
+      "kind": "dialogue",
+      "filename": "EP049-dialogue.mp3",
+      "bytes": 596930,
+      "sha256": "40f14deb9a02ef5d0fda653e7abbc06493a6f00a84ae287309a73c45a6a4549a",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP049-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0049dg.mp3"
+    },
+    {
+      "episode": "EP050",
+      "title": "New Guy In Town III",
+      "kind": "dialogue",
+      "filename": "EP050-dialogue.mp3",
+      "bytes": 921267,
+      "sha256": "a2092826cd1c196e230f42f2aec5296a8c272924ce7564956fe9118a28480243",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP050-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0050dg.mp3"
+    },
+    {
+      "episode": "EP051",
+      "title": "What a Bargain!",
+      "kind": "dialogue",
+      "filename": "EP051-dialogue.mp3",
+      "bytes": 700166,
+      "sha256": "caa877b60796226596b2590484e78f7c8755243f3cd9a47a1def7ce7690ccb4c",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP051-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0051dg.mp3"
+    },
+    {
+      "episode": "EP052",
+      "title": "Pizza Delivery",
+      "kind": "dialogue",
+      "filename": "EP052-dialogue.mp3",
+      "bytes": 584183,
+      "sha256": "5cb1b83d03b1f1de9fe210de70bbe3296a1b92c292e975897d500358192325e5",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP052-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0052dg.mp3"
+    },
+    {
+      "episode": "EP053",
+      "title": "Head Chef",
+      "kind": "dialogue",
+      "filename": "EP053-dialogue.mp3",
+      "bytes": 633502,
+      "sha256": "4feadec1f9b2b018775679fe4f85c9fbdce5a6b02a7db6e36300fc7ecd45e8e7",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP053-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0053dg.mp3"
+    },
+    {
+      "episode": "EP054",
+      "title": "I’m Sorry I Love You V",
+      "kind": "dialogue",
+      "filename": "EP054-dialogue.mp3",
+      "bytes": 1083623,
+      "sha256": "88dea1aac9dab8f10ce305030df6fc9f39b8644cd8a4fc3b79b1db12d14cc175",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP054-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0054dg.mp3"
+    },
+    {
+      "episode": "EP055",
+      "title": "Hockey",
+      "kind": "dialogue",
+      "filename": "EP055-dialogue.mp3",
+      "bytes": 721273,
+      "sha256": "dc0fc37dc4645868abc181511c8c512f80ccfccf1e01ee0d9166db880c637e5f",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP055-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0055dg.mp3"
+    },
+    {
+      "episode": "EP056",
+      "title": "Planning a Bank Robbery",
+      "kind": "dialogue",
+      "filename": "EP056-dialogue.mp3",
+      "bytes": 681567,
+      "sha256": "2c8a8c8eabde6409cfad7ecb46b43a52242d6d47f72702fe4a43097a266a1fdb",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP056-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0056dg.mp3"
+    },
+    {
+      "episode": "EP057",
+      "title": "Malfunction",
+      "kind": "dialogue",
+      "filename": "EP057-dialogue.mp3",
+      "bytes": 1040782,
+      "sha256": "ed2fcdc3ceee16cf96c19ea1bd7e6df1a34960082f6e9fd0069e9c701fa75b42",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP057-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0057dg.mp3"
+    },
+    {
+      "episode": "EP058",
+      "title": "This Is Your Captain Speaking",
+      "kind": "dialogue",
+      "filename": "EP058-dialogue.mp3",
+      "bytes": 927515,
+      "sha256": "32a3928d4c15bbb2db909b9b748d9b318ec11dd611e95c552fbc72a4ee76ec6c",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP058-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0058dg.mp3"
+    },
+    {
+      "episode": "EP059",
+      "title": "Job Interview I",
+      "kind": "dialogue",
+      "filename": "EP059-dialogue.mp3",
+      "bytes": 896983,
+      "sha256": "700bf5abbfe0a43d913b013f160f741d4f1e1f80564db63868dc701982fd0334",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP059-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0059dg.mp3"
+    },
+    {
+      "episode": "EP060",
+      "title": "New Guy in Town IV",
+      "kind": "dialogue",
+      "filename": "EP060-dialogue.mp3",
+      "bytes": 843317,
+      "sha256": "58fbb173393a9f651ae60a484aea61eda9e0040e47c5e5dd4830b4968dbad082",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP060-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0060dg.mp3"
+    },
+    {
+      "episode": "EP061",
+      "title": "Swim faster!",
+      "kind": "dialogue",
+      "filename": "EP061-dialogue.mp3",
+      "bytes": 673835,
+      "sha256": "36e71dde6f84d0f3e4df7f1115feed09df7000a89d4cdc42714e4ad5c65e131f",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP061-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0061dg.mp3"
+    },
+    {
+      "episode": "EP062",
+      "title": "Job Interview II",
+      "kind": "dialogue",
+      "filename": "EP062-dialogue.mp3",
+      "bytes": 1029058,
+      "sha256": "be90b6f085be494d2cc84e857287c2af7a5da9330bb5f9d6d14f4729ee693dcf",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP062-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0062dg.mp3"
+    },
+    {
+      "episode": "EP063",
+      "title": "Receptionist",
+      "kind": "dialogue",
+      "filename": "EP063-dialogue.mp3",
+      "bytes": 656490,
+      "sha256": "b368cd4827bcd5bf0246c2b465414e644bbd9f5d6361f2cb7ebfa0a9481e976f",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP063-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0063dg.mp3"
+    },
+    {
+      "episode": "EP064",
+      "title": "I’m Sorry I Love You VI",
+      "kind": "dialogue",
+      "filename": "EP064-dialogue.mp3",
+      "bytes": 1118732,
+      "sha256": "6b20715309425c2703ba619e57137805b298cdb4b08c786fa8948d58c4042ffb",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP064-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0064dg.mp3"
+    },
+    {
+      "episode": "EP065",
+      "title": "Job Interview III",
+      "kind": "dialogue",
+      "filename": "EP065-dialogue.mp3",
+      "bytes": 1097186,
+      "sha256": "8f5471432918edea91a7ec605cf5a18da87463c1690c016c1e3bb987e8dd9c8a",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP065-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0065dg.mp3"
+    },
+    {
+      "episode": "EP066",
+      "title": "Calling The Office",
+      "kind": "dialogue",
+      "filename": "EP066-dialogue.mp3",
+      "bytes": 717303,
+      "sha256": "bd6d696e61f70f5135825958be2f6a1554f98bb2b6b69eb6145334a0b86fe926",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP066-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0066dg.mp3"
+    },
+    {
+      "episode": "EP067",
+      "title": "Soccer",
+      "kind": "dialogue",
+      "filename": "EP067-dialogue.mp3",
+      "bytes": 859388,
+      "sha256": "537d125059ea627173f2d55fb9a21dbbf0a5108e03b1dc5603c90b77822ce34f",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP067-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0067dg.mp3"
+    },
+    {
+      "episode": "EP068",
+      "title": "Ground breaking Research",
+      "kind": "dialogue",
+      "filename": "EP068-dialogue.mp3",
+      "bytes": 660251,
+      "sha256": "ea8503ad3057271c5bc9e57e93fb8b2689144d72e0e985cd60570303601ed29a",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP068-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0068dg.mp3"
+    },
+    {
+      "episode": "EP069",
+      "title": "How Would You Like Your Eggs?",
+      "kind": "dialogue",
+      "filename": "EP069-dialogue.mp3",
+      "bytes": 762860,
+      "sha256": "ee850c185c15b76f986fac0711bfca7bdf2ae7922296e165bed8babc6d780b82",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP069-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0069dg.mp3"
+    },
+    {
+      "episode": "EP070",
+      "title": "Buying Underwear",
+      "kind": "dialogue",
+      "filename": "EP070-dialogue.mp3",
+      "bytes": 838490,
+      "sha256": "42c33c9b2498ebfd5391bee87ee7a3e78f2e0132fe7f2034f6c170f02ee57742",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP070-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0070dg.mp3"
+    },
+    {
+      "episode": "EP071",
+      "title": "Happy Hour",
+      "kind": "dialogue",
+      "filename": "EP071-dialogue.mp3",
+      "bytes": 502075,
+      "sha256": "f442a3dde3b76281c8322c0c9c0fd59dd3639a7abedc66115b7cf973df7d8910",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP071-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0071dg.mp3"
+    },
+    {
+      "episode": "EP072",
+      "title": "You Are Fired!",
+      "kind": "dialogue",
+      "filename": "EP072-dialogue.mp3",
+      "bytes": 736320,
+      "sha256": "a2d373d7c9404fac2fb440b4a460f14e363613bf7b748702540a9f17f198f3e3",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP072-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0072dg.mp3"
+    },
+    {
+      "episode": "EP073",
+      "title": "Which Finger?",
+      "kind": "dialogue",
+      "filename": "EP073-dialogue.mp3",
+      "bytes": 723781,
+      "sha256": "e30218c6232e915155fcebe85ffa7f36492a0d277176c51b7ddcf24d66325dde",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP073-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0073dg.mp3"
+    },
+    {
+      "episode": "EP074",
+      "title": "What Am I Thinking!",
+      "kind": "dialogue",
+      "filename": "EP074-dialogue.mp3",
+      "bytes": 922521,
+      "sha256": "641a213e29a784b3931556c5425126d27e4b8a7af993567e2b48e8af11de5907",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP074-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0074dg.mp3"
+    },
+    {
+      "episode": "EP075",
+      "title": "Going To The Dentist",
+      "kind": "dialogue",
+      "filename": "EP075-dialogue.mp3",
+      "bytes": 985006,
+      "sha256": "dd9ba4af9ffdc9160dc221e52bfad0ca23715e5b78a14b3705905bb664562d7e",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP075-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0075dg.mp3"
+    },
+    {
+      "episode": "EP076",
+      "title": "Learning Simple Math",
+      "kind": "dialogue",
+      "filename": "EP076-dialogue.mp3",
+      "bytes": 649384,
+      "sha256": "8a0425dfecffdbff84f350ed380e33c78d463e2b97ffbd26dcc703101210ae57",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP076-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0076dg.mp3"
+    },
+    {
+      "episode": "EP077",
+      "title": "F1 Racing",
+      "kind": "dialogue",
+      "filename": "EP077-dialogue.mp3",
+      "bytes": 504582,
+      "sha256": "667420e2bc8ff451662ed105a5c2d86a6445ffbac9d3be584d3b19952710d220",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP077-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0077dg.mp3"
+    },
+    {
+      "episode": "EP078",
+      "title": "International Workers Day",
+      "kind": "dialogue",
+      "filename": "EP078-dialogue.mp3",
+      "bytes": 976646,
+      "sha256": "77e96db2af373be159a895bfcccf5f2d42441c1e402f7317ac199863fd410eb3",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP078-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0078dg.mp3"
+    },
+    {
+      "episode": "EP079",
+      "title": "Funky Galaxy Battles",
+      "kind": "dialogue",
+      "filename": "EP079-dialogue.mp3",
+      "bytes": 833119,
+      "sha256": "a794887c6f7a30acf183540e01e8d7435d7af82176d6e245e2acbd8d2af93263",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP079-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0079dg.mp3"
+    },
+    {
+      "episode": "EP080",
+      "title": "I’m Sorry I Love You VII",
+      "kind": "dialogue",
+      "filename": "EP080-dialogue.mp3",
+      "bytes": 702277,
+      "sha256": "3b4571f3d08410a5baf3632fd147ed2d20a10359ee515c18566fccd6d065d45b",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP080-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0080dg.mp3"
+    },
+    {
+      "episode": "EP081",
+      "title": "Getting A Hair Cut",
+      "kind": "dialogue",
+      "filename": "EP081-dialogue.mp3",
+      "bytes": 722151,
+      "sha256": "e8232bfac91664917db04f3e468cdf9ffc8ad5eb60ac44257438ae3cc4e3ff81",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP081-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0081dg.mp3"
+    },
+    {
+      "episode": "EP082",
+      "title": "New Guy In Town V",
+      "kind": "dialogue",
+      "filename": "EP082-dialogue.mp3",
+      "bytes": 1200484,
+      "sha256": "5eb92d49c113b3502380eced6d1ae3a212e632f5c8d1d94d10bfbc61c576208e",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP082-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0082dg.mp3"
+    },
+    {
+      "episode": "EP083",
+      "title": "Using The ATM",
+      "kind": "dialogue",
+      "filename": "EP083-dialogue.mp3",
+      "bytes": 741565,
+      "sha256": "5aac9bdd73a8dae3c0c7d879e474746712de8666735d275234df602ce9b6c6f4",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP083-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0083dg.mp3"
+    },
+    {
+      "episode": "EP084",
+      "title": "At The Pharmacy",
+      "kind": "dialogue",
+      "filename": "EP084-dialogue.mp3",
+      "bytes": 549304,
+      "sha256": "ab58f250613f17edba4aa4766837019771ee7de7481dc5c65e96041b46abcdc0",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP084-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0084dg.mp3"
+    },
+    {
+      "episode": "EP085",
+      "title": "Baseball",
+      "kind": "dialogue",
+      "filename": "EP085-dialogue.mp3",
+      "bytes": 672811,
+      "sha256": "45df096787c0852bacd962e8f10ed44bfe6b14ef121a14bedaf3b28c664ff28f",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP085-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0085dg.mp3"
+    },
+    {
+      "episode": "EP086",
+      "title": "Looking for an Apartment",
+      "kind": "dialogue",
+      "filename": "EP086-dialogue.mp3",
+      "bytes": 813245,
+      "sha256": "183e6583fe683b5cf9dc2827e1618e41829f6e7ec3f7aeb1da68d49951972ac9",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP086-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0086dg.mp3"
+    },
+    {
+      "episode": "EP087",
+      "title": "Star Trek The Lost Generation",
+      "kind": "dialogue",
+      "filename": "EP087-dialogue.mp3",
+      "bytes": 506066,
+      "sha256": "a3747bb06907bff3e2fd0b01fc05fcfb0ea52a99906f007007f1100383692ccd",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP087-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0087dg.mp3"
+    },
+    {
+      "episode": "EP088",
+      "title": "Will You Be My Girlfriend?",
+      "kind": "dialogue",
+      "filename": "EP088-dialogue.mp3",
+      "bytes": 529242,
+      "sha256": "6341e4f8fd6cd321c43fe0cfc02107127ef1f7ee91ea2f6459bd0ccbe5ff60e3",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP088-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0088dg.mp3"
+    },
+    {
+      "episode": "EP089",
+      "title": "At The Airport",
+      "kind": "dialogue",
+      "filename": "EP089-dialogue.mp3",
+      "bytes": 633314,
+      "sha256": "32b972cdd16b3b5dcb03624f7ea82830956d4e7909a52ef32187bca0bde8053c",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP089-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0089dg.mp3"
+    },
+    {
+      "episode": "EP090",
+      "title": "I’m Sorry I Love You VIII",
+      "kind": "dialogue",
+      "filename": "EP090-dialogue.mp3",
+      "bytes": 1103079,
+      "sha256": "bee304c3d8aa6534cf0672c8c691b3ba523a2b25429219da36a6575ea0e076d7",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP090-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0090dg.mp3"
+    },
+    {
+      "episode": "EP091",
+      "title": "Aliens!",
+      "kind": "dialogue",
+      "filename": "EP091-dialogue.mp3",
+      "bytes": 947619,
+      "sha256": "3284fa35cfbc805e351b7246dd59534f80e4af1404c4b7d01a501a66b2ae9a89",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP091-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0091dg.mp3"
+    },
+    {
+      "episode": "EP092",
+      "title": "1950’s English",
+      "kind": "dialogue",
+      "filename": "EP092-dialogue.mp3",
+      "bytes": 351421,
+      "sha256": "62a949d862b179a7df7c6283d95db7223e561495f74ea5b184e5a22d8c893af9",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP092-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0092dg.mp3"
+    },
+    {
+      "episode": "EP093",
+      "title": "Volleyball",
+      "kind": "dialogue",
+      "filename": "EP093-dialogue.mp3",
+      "bytes": 624328,
+      "sha256": "ee5277a863934cf93f0a4ea6a454b460de14e3901810031bbd3b144c4d732528",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP093-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0093dg.mp3"
+    },
+    {
+      "episode": "EP094",
+      "title": "Big Bang Theory",
+      "kind": "dialogue",
+      "filename": "EP094-dialogue.mp3",
+      "bytes": 732767,
+      "sha256": "bed8dff27ae8d3f627a3a226dba7b3bbfa39c72e61f1aaae689cfaf261916187",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP094-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0094dg.mp3"
+    },
+    {
+      "episode": "EP095",
+      "title": "Talking About a Past Event",
+      "kind": "dialogue",
+      "filename": "EP095-dialogue.mp3",
+      "bytes": 433320,
+      "sha256": "85d70189e597f352eff46c9185d57a7f12897e292006ae5dec62512447ecb6d7",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP095-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0095dg.mp3"
+    },
+    {
+      "episode": "EP096",
+      "title": "1960’s English",
+      "kind": "dialogue",
+      "filename": "EP096-dialogue.mp3",
+      "bytes": 371065,
+      "sha256": "6a8255a2043793690812f0abdfe7da1018f41c9202da48225891a1a5617911f6",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP096-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0096dg.mp3"
+    },
+    {
+      "episode": "EP097",
+      "title": "Weather Forecast",
+      "kind": "dialogue",
+      "filename": "EP097-dialogue.mp3",
+      "bytes": 611768,
+      "sha256": "5dc88119952f81942373946c9294e98e2971523216e744ea9ef189579d70eeef",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP097-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0097dg.mp3"
+    },
+    {
+      "episode": "EP098",
+      "title": "Flattering",
+      "kind": "dialogue",
+      "filename": "EP098-dialogue.mp3",
+      "bytes": 768733,
+      "sha256": "3b5408cb23c3b91ebe9e557c1a6f7f463ff0138935e85ccf78c3bd7e0f2c6a4d",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP098-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0098dg.mp3"
+    },
+    {
+      "episode": "EP099",
+      "title": "Movie Review",
+      "kind": "dialogue",
+      "filename": "EP099-dialogue.mp3",
+      "bytes": 910818,
+      "sha256": "231fc99c529eee083212d9a33870151cf0013b3077cd756af8e626d84930a718",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP099-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0099dg.mp3"
+    },
+    {
+      "episode": "EP100",
+      "title": "Where are you from?",
+      "kind": "dialogue",
+      "filename": "EP100-dialogue.mp3",
+      "bytes": 635822,
+      "sha256": "fc1df2dec3d274026cb52d12c5471d05f46022e2942b548008cb44e2b9ce9be9",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP100-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0100dg.mp3"
+    },
+    {
+      "episode": "EP101",
+      "title": "1970’s English",
+      "kind": "dialogue",
+      "filename": "EP101-dialogue.mp3",
+      "bytes": 470749,
+      "sha256": "d9326a7eb1620337f26da09d484ef4a6246ad27c11584a96752eb8b1f3d2bc36",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP101-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0101dg.mp3"
+    },
+    {
+      "episode": "EP102",
+      "title": "Global Warming",
+      "kind": "dialogue",
+      "filename": "EP102-dialogue.mp3",
+      "bytes": 1143182,
+      "sha256": "655f2e609d63bbb3b6271673dee270615dfefc081c6c96482c88d1a11caf8cbe",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP102-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0102dg.mp3"
+    },
+    {
+      "episode": "EP103",
+      "title": "Baby, I’m Sorry",
+      "kind": "dialogue",
+      "filename": "EP103-dialogue.mp3",
+      "bytes": 554549,
+      "sha256": "b0afbf3113f3f59ddbb411995fc394d135a4953bc1294b81058b8f7cf1215932",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP103-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0103dg.mp3"
+    },
+    {
+      "episode": "EP104",
+      "title": "Skiing",
+      "kind": "dialogue",
+      "filename": "EP104-dialogue.mp3",
+      "bytes": 949061,
+      "sha256": "2b746361c732ff515f643cca7571c60afaf1f3ce5e06a6184b8a61c140948b58",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP104-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0104dg.mp3"
+    },
+    {
+      "episode": "EP105",
+      "title": "Job Well Done",
+      "kind": "dialogue",
+      "filename": "EP105-dialogue.mp3",
+      "bytes": 532168,
+      "sha256": "cb1fe85917df8b8b363af208801f352365eba519a24c21cb6e83e7db7e65448b",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP105-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0105dg.mp3"
+    },
+    {
+      "episode": "EP106",
+      "title": "Mobile Phone Plan",
+      "kind": "dialogue",
+      "filename": "EP106-dialogue.mp3",
+      "bytes": 647733,
+      "sha256": "53d0f403c22d8a14eafe442e39831bf73220b8729fe5ff505d9bf8b2455a793e",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP106-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0106dg.mp3"
+    },
+    {
+      "episode": "EP107",
+      "title": "Daily Life Complaining at a Restaurant",
+      "kind": "dialogue",
+      "filename": "EP107-dialogue.mp3",
+      "bytes": 859618,
+      "sha256": "077cccc6db5d64ef527327d124693e69e3afd053e75fbdd032767943b452e2a7",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP107-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0107dg.mp3"
+    },
+    {
+      "episode": "EP108",
+      "title": "Bad news, boss.",
+      "kind": "dialogue",
+      "filename": "EP108-dialogue.mp3",
+      "bytes": 811970,
+      "sha256": "7876820d7d63dd0fdf82fe8ba113a2260b46445e23d64742acee770628717bf3",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP108-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0108dg.mp3"
+    },
+    {
+      "episode": "EP109",
+      "title": "Breaking Up",
+      "kind": "dialogue",
+      "filename": "EP109-dialogue.mp3",
+      "bytes": 1100571,
+      "sha256": "10be597439bf31312f47bcc6f184ac82e61907b520bcdf4a051f2ff15f646f46",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP109-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0109dg.mp3"
+    },
+    {
+      "episode": "EP110",
+      "title": "Registering for University",
+      "kind": "dialogue",
+      "filename": "EP110-dialogue.mp3",
+      "bytes": 599877,
+      "sha256": "cf49f7902f6ea47d784c2bb92a89c423c2ab35b38024f17433327428be87c7fd",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP110-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0110dg.mp3"
+    },
+    {
+      "episode": "EP111",
+      "title": "Golf",
+      "kind": "dialogue",
+      "filename": "EP111-dialogue.mp3",
+      "bytes": 738222,
+      "sha256": "0169bf9fc82d12522bd65db1c04f53e690af8bd90a479c612a379604394a3788",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP111-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0111dg.mp3"
+    },
+    {
+      "episode": "EP112",
+      "title": "Dr. Plumber",
+      "kind": "dialogue",
+      "filename": "EP112-dialogue.mp3",
+      "bytes": 746372,
+      "sha256": "fafb3e6a4012d67a31e0fcf7f40324f53b4e36efd221728e4c3e6b09fd448726",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP112-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0112dg.mp3"
+    },
+    {
+      "episode": "EP113",
+      "title": "Sorry I’m Late",
+      "kind": "dialogue",
+      "filename": "EP113-dialogue.mp3",
+      "bytes": 554737,
+      "sha256": "8f0d532405cbedc5bff113c5d0dc102804465427c8dbb2b7f8a7548d1ae6346a",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP113-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0113dg.mp3"
+    },
+    {
+      "episode": "EP114",
+      "title": "1980’s English",
+      "kind": "dialogue",
+      "filename": "EP114-dialogue.mp3",
+      "bytes": 579188,
+      "sha256": "651baf4475b0ef3bb8f472905cbe25ad147a554f5d700ac6ee8de94b09bfa660",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP114-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0114dg.mp3"
+    },
+    {
+      "episode": "EP115",
+      "title": "I Don’t Feel So Good",
+      "kind": "dialogue",
+      "filename": "EP115-dialogue.mp3",
+      "bytes": 581696,
+      "sha256": "19457bfbe13c58114ef3ec39d93dde20eec13c4b2cb3414ee5c468f0f2ab4cef",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP115-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0115dg.mp3"
+    },
+    {
+      "episode": "EP116",
+      "title": "You Missed The Deadline!",
+      "kind": "dialogue",
+      "filename": "EP116-dialogue.mp3",
+      "bytes": 887203,
+      "sha256": "54f87cdc08f1a6ff932319ed324175cff18761faad7f1489222668b7f6bb0dee",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP116-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0116dg.mp3"
+    },
+    {
+      "episode": "EP117",
+      "title": "I’m Sorry I Love You IX",
+      "kind": "dialogue",
+      "filename": "EP117-dialogue.mp3",
+      "bytes": 1062955,
+      "sha256": "23b8faa94b25cef61e35578b9a222fe69e2a285ffc1f032c3033a7c07e995749",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP117-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0117dg.mp3"
+    },
+    {
+      "episode": "EP118",
+      "title": "Baby Talk",
+      "kind": "dialogue",
+      "filename": "EP118-dialogue.mp3",
+      "bytes": 697073,
+      "sha256": "99dbe521f73d0be42585dfbd0702384327076a72528e8bec14f21dfb88c4303a",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP118-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0118dg.mp3"
+    },
+    {
+      "episode": "EP119",
+      "title": "Being Scared",
+      "kind": "dialogue",
+      "filename": "EP119-dialogue.mp3",
+      "bytes": 604078,
+      "sha256": "35b38e1f3afa1525e6904a00a0f3516a175a7f74d157d5f48b3f6ca0419e2773",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP119-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0119dg.mp3"
+    },
+    {
+      "episode": "EP120",
+      "title": "Boxing",
+      "kind": "dialogue",
+      "filename": "EP120-dialogue.mp3",
+      "bytes": 1100362,
+      "sha256": "9501fc0e8a05b2dbc07d80c071db935e3ca5576ae25ba16bc40f4534a6797f7f",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP120-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0120dg.mp3"
+    },
+    {
+      "episode": "EP121",
+      "title": "Presidential Speech",
+      "kind": "dialogue",
+      "filename": "EP121-dialogue.mp3",
+      "bytes": 678453,
+      "sha256": "7321bc4a1b8771c4bbafbff74484ac5e2e9b49af85e47a7464e721f956abddfb",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP121-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0121dg.mp3"
+    },
+    {
+      "episode": "EP122",
+      "title": "Supermarket Cashier",
+      "kind": "dialogue",
+      "filename": "EP122-dialogue.mp3",
+      "bytes": 680543,
+      "sha256": "13e7712518fa7cd63976f9d9a24b53189ef273ceaec426ec097d4038820cee27",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP122-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0122dg.mp3"
+    },
+    {
+      "episode": "EP123",
+      "title": "1990’s English",
+      "kind": "dialogue",
+      "filename": "EP123-dialogue.mp3",
+      "bytes": 804468,
+      "sha256": "3127e6e2c8f28fad143bc212efd0904f6528ce4d34ed65f4e9f71abd4efc4138",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP123-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0123dg.mp3"
+    },
+    {
+      "episode": "EP124",
+      "title": "Tools",
+      "kind": "dialogue",
+      "filename": "EP124-dialogue.mp3",
+      "bytes": 904966,
+      "sha256": "f1ce3c3612390477df5f3e77497397a5d52981134bbe35e9b1a987dab11b629b",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP124-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0124dg.mp3"
+    },
+    {
+      "episode": "EP125",
+      "title": "No Smoking!",
+      "kind": "dialogue",
+      "filename": "EP125-dialogue.mp3",
+      "bytes": 524853,
+      "sha256": "2187b84f35724bc4088ee64e0367562a8678899125d828f2cf0a62e948ddbc9b",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP125-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0125dg.mp3"
+    },
+    {
+      "episode": "EP126",
+      "title": "That’s Funny!",
+      "kind": "dialogue",
+      "filename": "EP126-dialogue.mp3",
+      "bytes": 984608,
+      "sha256": "b534c35e14b6e8aa361d46cfef210944b3d70b5d1976bfd582c60ef332153bd8",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP126-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0126dg.mp3"
+    },
+    {
+      "episode": "EP127",
+      "title": "I Love That Song!",
+      "kind": "dialogue",
+      "filename": "EP127-dialogue.mp3",
+      "bytes": 1368901,
+      "sha256": "264cf4e7049c19ee1c04ff4b8c21334cb3ea00441e6a086e6e45e7015092292b",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP127-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0127dg.mp3"
+    },
+    {
+      "episode": "EP128",
+      "title": "I’m Sorry I Love You X",
+      "kind": "dialogue",
+      "filename": "EP128-dialogue.mp3",
+      "bytes": 1395630,
+      "sha256": "5e739971b5476b606fa302d2da30c5ef4f6a4dab13e680df25fc651b240ea098",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP128-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0128dg.mp3"
+    },
+    {
+      "episode": "EP129",
+      "title": "Presidential Speech II",
+      "kind": "dialogue",
+      "filename": "EP129-dialogue.mp3",
+      "bytes": 878008,
+      "sha256": "f9bc9c7fd4d4b50710cb58758292209cd31a0dda038532fab18cf7e7786ae22e",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP129-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0129dg.mp3"
+    },
+    {
+      "episode": "EP130",
+      "title": "Going To The Gym",
+      "kind": "dialogue",
+      "filename": "EP130-dialogue.mp3",
+      "bytes": 601549,
+      "sha256": "a6e1a9884c5bbb000abb05db19a2524c681d064ec90d7699012a4b4ff921d6f3",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP130-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0130dg.mp3"
+    },
+    {
+      "episode": "EP131",
+      "title": "What if? Part 1",
+      "kind": "dialogue",
+      "filename": "EP131-dialogue.mp3",
+      "bytes": 429162,
+      "sha256": "5ddf543641015b90950ce1aa27b015dfdb3aa517a4034c44f532383257a5ec88",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP131-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0131dg.mp3"
+    },
+    {
+      "episode": "EP132",
+      "title": "Mechanic",
+      "kind": "dialogue",
+      "filename": "EP132-dialogue.mp3",
+      "bytes": 692037,
+      "sha256": "300b5312f0b343ecfaaf9c15ecf62ed9920d5a07ab08fefe73c82f7cff456478",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP132-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0132dg.mp3"
+    },
+    {
+      "episode": "EP133",
+      "title": "Doing Laundry",
+      "kind": "dialogue",
+      "filename": "EP133-dialogue.mp3",
+      "bytes": 563515,
+      "sha256": "1bc59f3a9b487ee3831c77a3037e5999ccfc330d7b566bc389377d2af785e8ad",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP133-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0133dg.mp3"
+    },
+    {
+      "episode": "EP134",
+      "title": "Buying a TV",
+      "kind": "dialogue",
+      "filename": "EP134-dialogue.mp3",
+      "bytes": 785451,
+      "sha256": "dce59e56a3ef00e6d35cae523cef31259733725b84ddb9f4d66d1f8b418f9447",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP134-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0134dg.mp3"
+    },
+    {
+      "episode": "EP135",
+      "title": "Cheer Up",
+      "kind": "dialogue",
+      "filename": "EP135-dialogue.mp3",
+      "bytes": 561425,
+      "sha256": "711ad2ad3131ab110a4f53e9b032117ea8a5a17d64cee0c60afe2dd4b28500fc",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP135-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0135dg.mp3"
+    },
+    {
+      "episode": "EP136",
+      "title": "Gambling",
+      "kind": "dialogue",
+      "filename": "EP136-dialogue.mp3",
+      "bytes": 722130,
+      "sha256": "f220c0ee3c51c5f86b6f431172ff3b2f0a24cbda9f3d50455a91b1a761f07ec2",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP136-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0136dg.mp3"
+    },
+    {
+      "episode": "EP137",
+      "title": "Getting Internet Service",
+      "kind": "dialogue",
+      "filename": "EP137-dialogue.mp3",
+      "bytes": 609281,
+      "sha256": "f8164bf8bd6101a8f4affe10cb7adf410927b9ec08dcfaaa282e9ab37fa5884d",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP137-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0137dg.mp3"
+    },
+    {
+      "episode": "EP138",
+      "title": "Renting A Car",
+      "kind": "dialogue",
+      "filename": "EP138-dialogue.mp3",
+      "bytes": 611580,
+      "sha256": "3c48d5e9a6f23a680ff9e65cada0bbe8cd9b4ddbcd9635c078ece92068dac572",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP138-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0138dg.mp3"
+    },
+    {
+      "episode": "EP139",
+      "title": "Playing Chess",
+      "kind": "dialogue",
+      "filename": "EP139-dialogue.mp3",
+      "bytes": 654212,
+      "sha256": "aeb58635af3168f22cbf7c0866910785920c37e9cf5965eaf8a52f8ca2f64517",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP139-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0139dg.mp3"
+    },
+    {
+      "episode": "EP140",
+      "title": "Buying a Computer",
+      "kind": "dialogue",
+      "filename": "EP140-dialogue.mp3",
+      "bytes": 577098,
+      "sha256": "de88474933c6dc4ee0008a543cb2caef0e1eb23d59050cb854ebf002d98620a3",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP140-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0140dg.mp3"
+    },
+    {
+      "episode": "EP141",
+      "title": "What If? Part 2",
+      "kind": "dialogue",
+      "filename": "EP141-dialogue.mp3",
+      "bytes": 452358,
+      "sha256": "a78bcac4d67afc4efb82865d16bbf17192608a3cdc00bff266cb0e15bba0a688",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP141-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0141dg.mp3"
+    },
+    {
+      "episode": "EP142",
+      "title": "What Do I Wear?",
+      "kind": "dialogue",
+      "filename": "EP142-dialogue.mp3",
+      "bytes": 483475,
+      "sha256": "0ac95a7c85c803e11cd2751705c49c8fc8a6120d0bd068dfe9f49a6943a5528c",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP142-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0142dg.mp3"
+    },
+    {
+      "episode": "EP143",
+      "title": "The Butcher",
+      "kind": "dialogue",
+      "filename": "EP143-dialogue.mp3",
+      "bytes": 715234,
+      "sha256": "636abbc8b5f2d31cb73b12f2b0ebdc0da3e8610a07db29a78c74de4c1a551713",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP143-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0143dg.mp3"
+    },
+    {
+      "episode": "EP144",
+      "title": "Capital Punishment",
+      "kind": "dialogue",
+      "filename": "EP144-dialogue.mp3",
+      "bytes": 955728,
+      "sha256": "d45d9332923c77e5f49b57ea7d295a5ff7dd46faa244747f1a3e3472864c4bbd",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP144-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0144dg.mp3"
+    },
+    {
+      "episode": "EP145",
+      "title": "Chicken Pox",
+      "kind": "dialogue",
+      "filename": "EP145-dialogue.mp3",
+      "bytes": 463434,
+      "sha256": "abde81e245ec4b2878464368bb24eda9a2d87a5d772d2d529d2910642cd3a32c",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP145-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0145dg.mp3"
+    },
+    {
+      "episode": "EP146",
+      "title": "Animal Rights",
+      "kind": "dialogue",
+      "filename": "EP146-dialogue.mp3",
+      "bytes": 581905,
+      "sha256": "a92a2d9152090d43933927e3fb846353399847164b37098494e0a07e8a792521",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP146-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0146dg.mp3"
+    },
+    {
+      "episode": "EP147",
+      "title": "The Argument",
+      "kind": "dialogue",
+      "filename": "EP147-dialogue.mp3",
+      "bytes": 705621,
+      "sha256": "ee327eeb021d0a19170851c7d8bc38be7c384f3ef5c463ab0b3ff3a9aa54a20c",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP147-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0147dg.mp3"
+    },
+    {
+      "episode": "EP148",
+      "title": "Paranoid",
+      "kind": "dialogue",
+      "filename": "EP148-dialogue.mp3",
+      "bytes": 778346,
+      "sha256": "b87e6f861839bc5fc36226c2be9d6e78f3ed0911b8606d783c4762d3a1547826",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP148-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0148dg.mp3"
+    },
+    {
+      "episode": "EP149",
+      "title": "Moving",
+      "kind": "dialogue",
+      "filename": "EP149-dialogue.mp3",
+      "bytes": 496453,
+      "sha256": "b46eb2b67f22f73ea3a8320c2d4d56c32610079e844d16d2ed67ccc3f3e2928c",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP149-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0149dg.mp3"
+    },
+    {
+      "episode": "EP150",
+      "title": "Bug Spray",
+      "kind": "dialogue",
+      "filename": "EP150-dialogue.mp3",
+      "bytes": 398233,
+      "sha256": "fbbde4ff27dda7e0fcf72a8d3d0582ab3ab481df6ad07a3a3126c19d045bdd7a",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP150-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0150dg.mp3"
+    },
+    {
+      "episode": "EP151",
+      "title": "Darwin’s Theory Of Evolution",
+      "kind": "dialogue",
+      "filename": "EP151-dialogue.mp3",
+      "bytes": 889084,
+      "sha256": "6ec7a0b48179fdff352a6976b8748a76cb385170f275701ae980dc2d2001ac34",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP151-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0151dg.mp3"
+    },
+    {
+      "episode": "EP152",
+      "title": "Cut It Out",
+      "kind": "dialogue",
+      "filename": "EP152-dialogue.mp3",
+      "bytes": 590473,
+      "sha256": "69d59c3deabfb8921b62062e4b101ae40e7b848152d1f59bd93a85d21e7f5194",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP152-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0152dg.mp3"
+    },
+    {
+      "episode": "EP153",
+      "title": "Homesick",
+      "kind": "dialogue",
+      "filename": "EP153-dialogue.mp3",
+      "bytes": 778743,
+      "sha256": "9487945695869d21f4152dbfad1d4718abdc5471c76dc14372f4bd87187b7be8",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP153-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0153dg.mp3"
+    },
+    {
+      "episode": "EP154",
+      "title": "Rock Band",
+      "kind": "dialogue",
+      "filename": "EP154-dialogue.mp3",
+      "bytes": 471564,
+      "sha256": "3d8ec8d2237edb5e7449966ad4c4f3cdea379b586c488879a633f4c7c8222ea5",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP154-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0154dg.mp3"
+    },
+    {
+      "episode": "EP155",
+      "title": "Bachelor Party",
+      "kind": "dialogue",
+      "filename": "EP155-dialogue.mp3",
+      "bytes": 620357,
+      "sha256": "eb4a4aa673f68ab653f0678cbcc25f1829de2d1c3881da38459bd1629e024161",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP155-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0155dg.mp3"
+    },
+    {
+      "episode": "EP156",
+      "title": "Scary Story",
+      "kind": "dialogue",
+      "filename": "EP156-dialogue.mp3",
+      "bytes": 2214976,
+      "sha256": "8fc8a1e8acb6decd046e9a53b2ae4acbe8194c66d901c18d8d8d88a4f4c90964",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP156-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0156dg.mp3"
+    },
+    {
+      "episode": "EP157",
+      "title": "Trick Or Treat",
+      "kind": "dialogue",
+      "filename": "EP157-dialogue.mp3",
+      "bytes": 365841,
+      "sha256": "615393fe9ba9ac8a966c8f584e5b9d390f234e59f3f0da7d8a402a4eb1c9032a",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP157-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0157dg.mp3"
+    },
+    {
+      "episode": "EP158",
+      "title": "All Saints Day",
+      "kind": "dialogue",
+      "filename": "EP158-dialogue.mp3",
+      "bytes": 594444,
+      "sha256": "f6bd1442dcc5246fd1bc7aceee16960d9d7def71cd0343fc6acd0c7f8627353a",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP158-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0158dg.mp3"
+    },
+    {
+      "episode": "EP159",
+      "title": "Getting Flowers",
+      "kind": "dialogue",
+      "filename": "EP159-dialogue.mp3",
+      "bytes": 597160,
+      "sha256": "b85602c5a35e8500c155c2c7d6b9ce00a64ce3c5cc6d2fe16f985b47768e4465",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP159-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0159dg.mp3"
+    },
+    {
+      "episode": "EP160",
+      "title": "Health Insurance",
+      "kind": "dialogue",
+      "filename": "EP160-dialogue.mp3",
+      "bytes": 513151,
+      "sha256": "6bf80ac245fe279d477e1057b7772c8c735cc8f2d93dc3a6dcd104d09635ddd8",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP160-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0160dg.mp3"
+    },
+    {
+      "episode": "EP161",
+      "title": "Computer Games",
+      "kind": "dialogue",
+      "filename": "EP161-dialogue.mp3",
+      "bytes": 574800,
+      "sha256": "90a169867157bc8330506f000d557dd80ac39987f24bfbaabef0f1298cfccf6e",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP161-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0161dg.mp3"
+    },
+    {
+      "episode": "EP162",
+      "title": "Veteran’s Day",
+      "kind": "dialogue",
+      "filename": "EP162-dialogue.mp3",
+      "bytes": 406801,
+      "sha256": "c5865abbac284f2f86b0740d95aadf1762f10d60f11e9c82925f4b16d1981766",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP162-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0162dg.mp3"
+    },
+    {
+      "episode": "EP163",
+      "title": "Social Security",
+      "kind": "dialogue",
+      "filename": "EP163-dialogue.mp3",
+      "bytes": 734669,
+      "sha256": "5d5d1eead2a3d4ebf3b57cd2cc416aadce260409228787408678e0fae34d040e",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP163-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0163dg.mp3"
+    },
+    {
+      "episode": "EP164",
+      "title": "Apology Letter",
+      "kind": "dialogue",
+      "filename": "EP164-dialogue.mp3",
+      "bytes": 995045,
+      "sha256": "4a1c0e71041c9270c4a877c9f34bcd5aaf9a665dbf981ec9d1ce5df651649483",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP164-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0164dg.mp3"
+    },
+    {
+      "episode": "EP165",
+      "title": "Asking For A Loan",
+      "kind": "dialogue",
+      "filename": "EP165-dialogue.mp3",
+      "bytes": 669676,
+      "sha256": "f6f8dc2a83e9ac9a5d46ef09a8c7ead165134e40f69e5b9c506a972e9441a8b0",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP165-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0165dg.mp3"
+    },
+    {
+      "episode": "EP166",
+      "title": "Dr. Botox",
+      "kind": "dialogue",
+      "filename": "EP166-dialogue.mp3",
+      "bytes": 621820,
+      "sha256": "33bd686f88d21b4ba229b55034c337e1629df21c002561c619359f55b86585a5",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP166-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0166dg.mp3"
+    },
+    {
+      "episode": "EP167",
+      "title": "Learning How To Drive",
+      "kind": "dialogue",
+      "filename": "EP167-dialogue.mp3",
+      "bytes": 669676,
+      "sha256": "81b369c37710aeb9a40b10abcab41ce37fb0e58ed24f333d9df1cb495dee84a9",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP167-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0167dg.mp3"
+    },
+    {
+      "episode": "EP168",
+      "title": "Cooking A Thanksgiving Dinner",
+      "kind": "dialogue",
+      "filename": "EP168-dialogue.mp3",
+      "bytes": 1514832,
+      "sha256": "82790a4c33dd337a0803cf6ee72178fa62fb3592bcac34c8487939ca8fddd19e",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP168-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0168dg.mp3"
+    },
+    {
+      "episode": "EP169",
+      "title": "Roller Coaster",
+      "kind": "dialogue",
+      "filename": "EP169-dialogue.mp3",
+      "bytes": 671348,
+      "sha256": "b1d106ec30994723f500755a8b340dc1c04354834c199b6412c1121334235748",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP169-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0169dg.mp3"
+    },
+    {
+      "episode": "EP170",
+      "title": "Wedding Doubts",
+      "kind": "dialogue",
+      "filename": "EP170-dialogue.mp3",
+      "bytes": 661735,
+      "sha256": "cd81acdc483fcf233aebc6c1bc10a492ae9343e762b9a85725bbc9ad1fdb05a3",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP170-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0170dg.mp3"
+    },
+    {
+      "episode": "EP171",
+      "title": "Buying a Camera",
+      "kind": "dialogue",
+      "filename": "EP171-dialogue.mp3",
+      "bytes": 828480,
+      "sha256": "008fa2e365cfc3b42020570225cb371a20c20b667ec930cbcf4b99a965478d50",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP171-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0171dg.mp3"
+    },
+    {
+      "episode": "EP172",
+      "title": "Dry Cleaners",
+      "kind": "dialogue",
+      "filename": "EP172-dialogue.mp3",
+      "bytes": 453194,
+      "sha256": "1327e6df507c85a80f005d0501484d77cd875ffa3e44aa7a6d9e0576af89316c",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP172-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0172dg.mp3"
+    },
+    {
+      "episode": "EP173",
+      "title": "Preparing a Budget",
+      "kind": "dialogue",
+      "filename": "EP173-dialogue.mp3",
+      "bytes": 776026,
+      "sha256": "f4f95ffb06e01aabeba8e1be73062e31b3100f83eaee67d4a97962a4cb6615eb",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP173-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0173dg.mp3"
+    },
+    {
+      "episode": "EP174",
+      "title": "Getting a manicure",
+      "kind": "dialogue",
+      "filename": "EP174-dialogue.mp3",
+      "bytes": 400531,
+      "sha256": "128a5bc8769ef524cd07ea585492a1540031d9cd72b74023d581d9b886bd0d18",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP174-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0174dg.mp3"
+    },
+    {
+      "episode": "EP175",
+      "title": "New Years Resolution",
+      "kind": "dialogue",
+      "filename": "EP175-dialogue.mp3",
+      "bytes": 566022,
+      "sha256": "fd298699b1ef0ca3308355496dc594801106f5cd4140deca9918af7b3da79df2",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP175-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0175dg.mp3"
+    },
+    {
+      "episode": "EP176",
+      "title": "Heating",
+      "kind": "dialogue",
+      "filename": "EP176-dialogue.mp3",
+      "bytes": 400949,
+      "sha256": "f92bdcf6b5af36c72106c70dfd5479f2d523a9bef382895ff80934ed64b0af87",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP176-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0176dg.mp3"
+    },
+    {
+      "episode": "EP177",
+      "title": "Decorating a Christmas Tree",
+      "kind": "dialogue",
+      "filename": "EP177-dialogue.mp3",
+      "bytes": 388829,
+      "sha256": "241e95de5687ca09a894726ff94aee9e6ea356d87dc01e1b7d07adc2fb59d007",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP177-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0177dg.mp3"
+    },
+    {
+      "episode": "EP178",
+      "title": "Finding the perfect present",
+      "kind": "dialogue",
+      "filename": "EP178-dialogue.mp3",
+      "bytes": 676155,
+      "sha256": "6df970b45fb7d9b64e549cbe02e107f852f1e1bf8c5484242400aa2330d668c9",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP178-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0178dg.mp3"
+    },
+    {
+      "episode": "EP179",
+      "title": "Silent Night",
+      "kind": "dialogue",
+      "filename": "EP179-dialogue.mp3",
+      "bytes": 676802,
+      "sha256": "41328aa522bf0db10b699578c33c5f44b4355a7d42d2da97004781f555405cda",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP179-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0179dg.mp3"
+    },
+    {
+      "episode": "EP180",
+      "title": "Jingle Bells",
+      "kind": "dialogue",
+      "filename": "EP180-dialogue.mp3",
+      "bytes": 316313,
+      "sha256": "7ba4e3b7b268156d8e7139ca9c4fa4659a2ecdc4383bd27594d8a735b39c08f8",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP180-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0180dg.mp3"
+    },
+    {
+      "episode": "EP181",
+      "title": "Christmas Day",
+      "kind": "dialogue",
+      "filename": "EP181-dialogue.mp3",
+      "bytes": 831217,
+      "sha256": "da632646168093301eb4f290bb599bc2622568463b8a6dd13d66050349405b25",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP181-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0181dg.mp3"
+    },
+    {
+      "episode": "EP182",
+      "title": "Boxing Day",
+      "kind": "dialogue",
+      "filename": "EP182-dialogue.mp3",
+      "bytes": 583995,
+      "sha256": "72d9119900b6203b554a511fef7972845ac952688a0909458b4de7e29f189daa",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP182-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0182dg.mp3"
+    },
+    {
+      "episode": "EP183",
+      "title": "Winter Clothes",
+      "kind": "dialogue",
+      "filename": "EP183-dialogue.mp3",
+      "bytes": 375872,
+      "sha256": "b46618050d2db125558dfb343f273470c84051ce9178fe92700255efeced5274",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP183-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0183dg.mp3"
+    },
+    {
+      "episode": "EP184",
+      "title": "Fresh Start",
+      "kind": "dialogue",
+      "filename": "EP184-dialogue.mp3",
+      "bytes": 429371,
+      "sha256": "049bf54f64438383e3fd5b0fa6b3507be07fe70bd7efa826e1a35e4d080a124d",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP184-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0184dg.mp3"
+    },
+    {
+      "episode": "EP185",
+      "title": "Farm Animals",
+      "kind": "dialogue",
+      "filename": "EP185-dialogue.mp3",
+      "bytes": 473465,
+      "sha256": "63b91ebc00927e999500dce80573b5bd8ca37dc1dc6ea1229261518d771a3b52",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP185-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0185dg.mp3"
+    },
+    {
+      "episode": "EP186",
+      "title": "Business Plan",
+      "kind": "dialogue",
+      "filename": "EP186-dialogue.mp3",
+      "bytes": 890756,
+      "sha256": "54b8ff0bfe599bb1f92e573e3841e3a127206ae43f7bcb2e25e75f9203d65778",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP186-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0186dg.mp3"
+    },
+    {
+      "episode": "EP187",
+      "title": "Going On A Diet",
+      "kind": "dialogue",
+      "filename": "EP187-dialogue.mp3",
+      "bytes": 559962,
+      "sha256": "af55c12f2f55e94a5382bea7319ab95d5659b037341a106e76c0fd1a83088403",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP187-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0187dg.mp3"
+    },
+    {
+      "episode": "EP188",
+      "title": "Asking For A Raise",
+      "kind": "dialogue",
+      "filename": "EP188-dialogue.mp3",
+      "bytes": 634568,
+      "sha256": "a16956d90c9bb1dd10dfb168dddba71953e9c2561e3fc4f585857a649eaf4b4c",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP188-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0188dg.mp3"
+    },
+    {
+      "episode": "EP189",
+      "title": "Buying A New Mobile Phone",
+      "kind": "dialogue",
+      "filename": "EP189-dialogue.mp3",
+      "bytes": 452149,
+      "sha256": "0913907c64d67a140e9ef256e6dd19770d9db139197a7600fd4e3087ddefb3a6",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP189-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0189dg.mp3"
+    },
+    {
+      "episode": "EP190",
+      "title": "Family Barbecue",
+      "kind": "dialogue",
+      "filename": "EP190-dialogue.mp3",
+      "bytes": 380469,
+      "sha256": "ce711dca495d5a163effb89ac451561c1c3648ac0fe511314eaf18e51dab47c4",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP190-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0190dg.mp3"
+    },
+    {
+      "episode": "EP191",
+      "title": "Daylight Savings Time",
+      "kind": "dialogue",
+      "filename": "EP191-dialogue.mp3",
+      "bytes": 571874,
+      "sha256": "2a570ea1cc852446b879a7772e953405353424821d09cc2c8e7b4271c22c6b76",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP191-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0191dg.mp3"
+    },
+    {
+      "episode": "EP192",
+      "title": "Natural Disasters",
+      "kind": "dialogue",
+      "filename": "EP192-dialogue.mp3",
+      "bytes": 824509,
+      "sha256": "d81d4aa0638cf8a77da7ec25304cedbce928df4a6ee48890b9f9dc59e8850258",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP192-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0192dg.mp3"
+    },
+    {
+      "episode": "EP193",
+      "title": "Building Your Dream Home",
+      "kind": "dialogue",
+      "filename": "EP193-dialogue.mp3",
+      "bytes": 965759,
+      "sha256": "0b1f877579577235a665025f619012b3170cdd508fcf80ed65601a3f54fd067f",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP193-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0193dg.mp3"
+    },
+    {
+      "episode": "EP194",
+      "title": "Stir Fry",
+      "kind": "dialogue",
+      "filename": "EP194-dialogue.mp3",
+      "bytes": 489557,
+      "sha256": "31e0878d922bd581d49f59d33c333513ec5b0a3cdcfcbbbc63cc13373d6680ef",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP194-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0194dg.mp3"
+    },
+    {
+      "episode": "EP195",
+      "title": "Job Hunting",
+      "kind": "dialogue",
+      "filename": "EP195-dialogue.mp3",
+      "bytes": 584831,
+      "sha256": "9a1a5ca10b763b5b1766ba9c839f491a80c5a94d1affef812811e71696e64ea5",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP195-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0195dg.mp3"
+    },
+    {
+      "episode": "EP196",
+      "title": "Going To The Tailor",
+      "kind": "dialogue",
+      "filename": "EP196-dialogue.mp3",
+      "bytes": 511061,
+      "sha256": "e42e7d8d0ed71edb8a7666b691fef1be6ad2171ab4fbb7d80617ba952d186b9c",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP196-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0196dg.mp3"
+    },
+    {
+      "episode": "EP197",
+      "title": "Calling 911",
+      "kind": "dialogue",
+      "filename": "EP197-dialogue.mp3",
+      "bytes": 500194,
+      "sha256": "c9572a238271c4efc8b3b3267447664d2eea344e291f80e0a2b70873f6ae848e",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP197-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0197dg.mp3"
+    },
+    {
+      "episode": "EP198",
+      "title": "Applying CPR",
+      "kind": "dialogue",
+      "filename": "EP198-dialogue.mp3",
+      "bytes": 682403,
+      "sha256": "4d198afe560a09b455c83ae19f81f60a45ab8dd84cdb678c670e36896545a13b",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP198-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0198dg.mp3"
+    },
+    {
+      "episode": "EP199",
+      "title": "Learning About First Aid",
+      "kind": "dialogue",
+      "filename": "EP199-dialogue.mp3",
+      "bytes": 442933,
+      "sha256": "41d84fa21ed7b22a2b02b05842cc7b491293ad28a88883c7492aabf622e8da3f",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP199-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0199dg.mp3"
+    },
+    {
+      "episode": "EP200",
+      "title": "Junk Food",
+      "kind": "dialogue",
+      "filename": "EP200-dialogue.mp3",
+      "bytes": 383395,
+      "sha256": "f982a52df6114261ccbd1dd8412eaba3b99896605c7116977262aacb20b4deb1",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP200-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0200dg.mp3"
+    },
+    {
+      "episode": "EP201",
+      "title": "At The Post Office",
+      "kind": "dialogue",
+      "filename": "EP201-dialogue.mp3",
+      "bytes": 420991,
+      "sha256": "e6ade7c1fc2725621a2cfd5d407e91bff473e80b35c9c1017f68732326b7cc04",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP201-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0201dg.mp3"
+    },
+    {
+      "episode": "EP202",
+      "title": "Asking For Directions",
+      "kind": "dialogue",
+      "filename": "EP202-dialogue.mp3",
+      "bytes": 468450,
+      "sha256": "280da99e20e58079e0d54167aa95b81f8fba8d9eba681108cabdea2a53384a71",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP202-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0202dg.mp3"
+    },
+    {
+      "episode": "EP203",
+      "title": "Calling Tech Support",
+      "kind": "dialogue",
+      "filename": "EP203-dialogue.mp3",
+      "bytes": 497707,
+      "sha256": "76752c6546068bf40bd7df0c34b1058a4dc50886e5715cc2b6b7ff69baef9ac5",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP203-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0203dg.mp3"
+    },
+    {
+      "episode": "EP204",
+      "title": "Understanding a Trial",
+      "kind": "dialogue",
+      "filename": "EP204-dialogue.mp3",
+      "bytes": 806558,
+      "sha256": "89805906d88079064ad371ed00b9171fd8ce70eab4573ddfbdad2d0b71399997",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP204-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0204dg.mp3"
+    },
+    {
+      "episode": "EP205",
+      "title": "Closing The Deal",
+      "kind": "dialogue",
+      "filename": "EP205-dialogue.mp3",
+      "bytes": 1300544,
+      "sha256": "731f74cd733819f71eebefae7436e530962652b685ce55fbcf9e4953bee248eb",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP205-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0205dg.mp3"
+    },
+    {
+      "episode": "EP206",
+      "title": "Talking To Your Roomate",
+      "kind": "dialogue",
+      "filename": "EP206-dialogue.mp3",
+      "bytes": 532168,
+      "sha256": "b5173b662e05d4895e9fefbaeacfbdbf6e8c54c975227cbeb447ee59ce5a8b42",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP206-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0206dg.mp3"
+    },
+    {
+      "episode": "EP207",
+      "title": "Shopping Online",
+      "kind": "dialogue",
+      "filename": "EP207-dialogue.mp3",
+      "bytes": 652331,
+      "sha256": "1efc230e54caf49d7b24bb3960ba6d9347905276bdf606a343c306f996f1c353",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP207-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0207dg.mp3"
+    },
+    {
+      "episode": "EP208",
+      "title": "Understanding The Stock Market",
+      "kind": "dialogue",
+      "filename": "EP208-dialogue.mp3",
+      "bytes": 594026,
+      "sha256": "5557dec007dfd3d5fde757892725c34c017866211005a5a032ff00b5fac0629a",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP208-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0208dg.mp3"
+    },
+    {
+      "episode": "EP209",
+      "title": "Office Gossip",
+      "kind": "dialogue",
+      "filename": "EP209-dialogue.mp3",
+      "bytes": 473047,
+      "sha256": "d7b889229aadddec8cceb707cab9f92d0843852bfa984cefb67a0ff5cde99708",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP209-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0209dg.mp3"
+    },
+    {
+      "episode": "EP210",
+      "title": "Meeting the In-laws",
+      "kind": "dialogue",
+      "filename": "EP210-dialogue.mp3",
+      "bytes": 608027,
+      "sha256": "7a335de61f6d14ff1e2517a6c9f63cabbd1c98d7fa12f9e1c6f4eb556e11fa50",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP210-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0210dg.mp3"
+    },
+    {
+      "episode": "EP211",
+      "title": "Playing Board Games",
+      "kind": "dialogue",
+      "filename": "EP211-dialogue.mp3",
+      "bytes": 365632,
+      "sha256": "e87b1eaad1a7813db7164bf2c1580ed591843e0abb7fc304da30385175538ad3",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP211-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0211dg.mp3"
+    },
+    {
+      "episode": "EP212",
+      "title": "Last Will And Testament",
+      "kind": "dialogue",
+      "filename": "EP212-dialogue.mp3",
+      "bytes": 772912,
+      "sha256": "4c51c3bdfd35107c519c4dcc489573952637949556d217f06776d9b658a5baf6",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP212-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0212dg.mp3"
+    },
+    {
+      "episode": "EP213",
+      "title": "Funeral Arrangements",
+      "kind": "dialogue",
+      "filename": "EP213-dialogue.mp3",
+      "bytes": 541802,
+      "sha256": "37b0f03490b050c4d4130fb38aad2073e1d12c7ce2fad7f10914c3936779d836",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP213-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0213dg.mp3"
+    },
+    {
+      "episode": "EP214",
+      "title": "Describing Personalities",
+      "kind": "dialogue",
+      "filename": "EP214-dialogue.mp3",
+      "bytes": 552230,
+      "sha256": "de315dee151336e211538029e214d62cb5844796f4ae89ae3e958d3fb8ce5722",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP214-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0214dg.mp3"
+    },
+    {
+      "episode": "EP215",
+      "title": "At the Deli",
+      "kind": "dialogue",
+      "filename": "EP215-dialogue.mp3",
+      "bytes": 524435,
+      "sha256": "e3faec9798a1ca9eb160e7f382c11e8f6d58fe08b50c268adeab49c20e647e9f",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP215-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0215dg.mp3"
+    },
+    {
+      "episode": "EP216",
+      "title": "Health Food",
+      "kind": "dialogue",
+      "filename": "EP216-dialogue.mp3",
+      "bytes": 502493,
+      "sha256": "679cac4e5aa8a58a26ca71d5b08c1d41b0bfe190e5c8cac21ba3215efc7f17b1",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP216-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0216dg.mp3"
+    },
+    {
+      "episode": "EP217",
+      "title": "Volunteering",
+      "kind": "dialogue",
+      "filename": "EP217-dialogue.mp3",
+      "bytes": 792117,
+      "sha256": "2122649f8b6e4f3f50264ab2b4b755d544876d510be30bb3c0510f3e8fcb80ce",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP217-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0217dg.mp3"
+    },
+    {
+      "episode": "EP218",
+      "title": "Divorce",
+      "kind": "dialogue",
+      "filename": "EP218-dialogue.mp3",
+      "bytes": 1075682,
+      "sha256": "c20cd43addbba813d7bce0e386216b6ef4f48562df5b33819c8a9ab016f18b7a",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP218-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0218dg.mp3"
+    },
+    {
+      "episode": "EP219",
+      "title": "Baby Shower",
+      "kind": "dialogue",
+      "filename": "EP219-dialogue.mp3",
+      "bytes": 522158,
+      "sha256": "2fa9557c01f5878984739154eba88081b68d66b305e27d98bf9611e53ad0c275",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP219-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0219dg.mp3"
+    },
+    {
+      "episode": "EP220",
+      "title": "New Furniture",
+      "kind": "dialogue",
+      "filename": "EP220-dialogue.mp3",
+      "bytes": 378171,
+      "sha256": "a30a59da4b73e8dce6fdf69f41087bf180bdee7b002fdd21835bfae01ccb71e3",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP220-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0220dg.mp3"
+    },
+    {
+      "episode": "EP221",
+      "title": "Car Trouble",
+      "kind": "dialogue",
+      "filename": "EP221-dialogue.mp3",
+      "bytes": 589846,
+      "sha256": "46759610aa019ffc97fb2ad64a8a323c76b6e76f43fb706c953313b62f931a64",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP221-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0221dg.mp3"
+    },
+    {
+      "episode": "EP222",
+      "title": "Carbon Footprint",
+      "kind": "dialogue",
+      "filename": "EP222-dialogue.mp3",
+      "bytes": 1194173,
+      "sha256": "0e35b2a5889eea37bba5ab1f1f56a32a59d6a19166955a3bf2cf05eabcfa1b06",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP222-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0222dg.mp3"
+    },
+    {
+      "episode": "EP223",
+      "title": "Facial Hair",
+      "kind": "dialogue",
+      "filename": "EP223-dialogue.mp3",
+      "bytes": 696426,
+      "sha256": "ec00bf44cc088d9b3a793531e85f4d4165d19d54b6b4edce9dbe5efa699484b8",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP223-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0223dg.mp3"
+    },
+    {
+      "episode": "EP224",
+      "title": "Crime Scene",
+      "kind": "dialogue",
+      "filename": "EP224-dialogue.mp3",
+      "bytes": 1115806,
+      "sha256": "240378f29fc20562be811d82fac3acb027eb4cb557cf971603992179adbc251d",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP224-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0224dg.mp3"
+    },
+    {
+      "episode": "EP225",
+      "title": "Planning A Crime",
+      "kind": "dialogue",
+      "filename": "EP225-dialogue.mp3",
+      "bytes": 1513264,
+      "sha256": "a663f30518504afb2ffea084d2e9aeeab09e0c686f2928e8843b404cdb64508f",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP225-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0225dg.mp3"
+    },
+    {
+      "episode": "EP226",
+      "title": "Fundraiser",
+      "kind": "dialogue",
+      "filename": "EP226-dialogue.mp3",
+      "bytes": 728588,
+      "sha256": "5e965f40a707cce4af69ca099cfc36ce6d369f2ad299b7b099b527304bd257f4",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP226-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0226dg.mp3"
+    },
+    {
+      "episode": "EP227",
+      "title": "Wedding Planning",
+      "kind": "dialogue",
+      "filename": "EP227-dialogue.mp3",
+      "bytes": 1155491,
+      "sha256": "8256b0f11016676d52b27768297e53f2e73098cfed133ab374077a1b49b31770",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP227-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0227dg.mp3"
+    },
+    {
+      "episode": "EP228",
+      "title": "Going to the Beach",
+      "kind": "dialogue",
+      "filename": "EP228-dialogue.mp3",
+      "bytes": 721921,
+      "sha256": "8b2ca9d8f8592f0c01e170bafdc7e217d23bf1f7e520b882a7485ddbc8b1482e",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP228-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0228dg.mp3"
+    },
+    {
+      "episode": "EP229",
+      "title": "Buying Men’s Shoes",
+      "kind": "dialogue",
+      "filename": "EP229-dialogue.mp3",
+      "bytes": 656302,
+      "sha256": "6bda8d5a8130620417bfc2e6d45bddc16ef75a7a39ab0744e87baea10480801d",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP229-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0229dg.mp3"
+    },
+    {
+      "episode": "EP230",
+      "title": "Gardening",
+      "kind": "dialogue",
+      "filename": "EP230-dialogue.mp3",
+      "bytes": 449433,
+      "sha256": "8865bd8f0ac0e7cea8ef736865890b12ddd983ba54bc1edfa1f50cd9bc8b0b4c",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP230-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0230dg.mp3"
+    },
+    {
+      "episode": "EP231",
+      "title": "Buying Women’s Shoes",
+      "kind": "dialogue",
+      "filename": "EP231-dialogue.mp3",
+      "bytes": 1018442,
+      "sha256": "9d0bd98dfab4df26d2b91c07d5d1c268f557f86e3497315388d12452d5325e8b",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP231-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0231dg.mp3"
+    },
+    {
+      "episode": "EP232",
+      "title": "Toys",
+      "kind": "dialogue",
+      "filename": "EP232-dialogue.mp3",
+      "bytes": 925237,
+      "sha256": "abeba4166aca58e88dc05603283e542141de356942f09e7e90752a39e33d0f33",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP232-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0232dg.mp3"
+    },
+    {
+      "episode": "EP233",
+      "title": "Forex",
+      "kind": "dialogue",
+      "filename": "EP233-dialogue.mp3",
+      "bytes": 710218,
+      "sha256": "c4588bbd0334e524934f8d25c1bc2e77a805ce4131ae0a7cefd4ed1893e2671b",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP233-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0233dg.mp3"
+    },
+    {
+      "episode": "EP234",
+      "title": "Going to the Doctor",
+      "kind": "dialogue",
+      "filename": "EP234-dialogue.mp3",
+      "bytes": 1007136,
+      "sha256": "182aa2d1203b2ac114b79b6f5b63367b819f4c330d737c585f4c878330f72936",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP234-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0234dg.mp3"
+    },
+    {
+      "episode": "EP235",
+      "title": "Interview Skills Part 1 - The Introduction",
+      "kind": "dialogue",
+      "filename": "EP235-dialogue.mp3",
+      "bytes": 534466,
+      "sha256": "8c1be6f3cc3711d4871881dea7c954a32e52246c200118171568ba8d85743e40",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP235-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0235dg.mp3"
+    },
+    {
+      "episode": "EP236",
+      "title": "Trying To Sleep",
+      "kind": "dialogue",
+      "filename": "EP236-dialogue.mp3",
+      "bytes": 733812,
+      "sha256": "eab2f5746ebc9505dd4af50d0c3664abb75a0c23d7a340bc4b6f80a820acc808",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP236-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0236dg.mp3"
+    },
+    {
+      "episode": "EP237",
+      "title": "Morning Routine",
+      "kind": "dialogue",
+      "filename": "EP237-dialogue.mp3",
+      "bytes": 986030,
+      "sha256": "5527943be673fd3c0dd23778864f452da8714fac6f0ac43126dfe7b6e610cf65",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP237-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0237dg.mp3"
+    },
+    {
+      "episode": "EP238",
+      "title": "Interview Skills Part 2 - Discussing Your Background",
+      "kind": "dialogue",
+      "filename": "EP238-dialogue.mp3",
+      "bytes": 655027,
+      "sha256": "70c13396793dfa033fcf94f09d83bc53865e8cfa48a357c47a5c975c454ed112",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP238-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0238dg.mp3"
+    },
+    {
+      "episode": "EP239",
+      "title": "Adventure Sports",
+      "kind": "dialogue",
+      "filename": "EP239-dialogue.mp3",
+      "bytes": 641255,
+      "sha256": "930c0377f86e0cf617f51d900d705008d2a300e4155329196a50155da6e28b88",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP239-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0239dg.mp3"
+    },
+    {
+      "episode": "EP240",
+      "title": "Getting A Pet",
+      "kind": "dialogue",
+      "filename": "EP240-dialogue.mp3",
+      "bytes": 503537,
+      "sha256": "dcd2dd0a3f59c654f3118a112d621c50e0489ae25879512e02ab182ace87ac4e",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP240-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0240dg.mp3"
+    },
+    {
+      "episode": "EP241",
+      "title": "Interview Skills Part 3 - Education Background",
+      "kind": "dialogue",
+      "filename": "EP241-dialogue.mp3",
+      "bytes": 605728,
+      "sha256": "af8018d04b2dcfc856ea6c9344403524cd48abd6e4dee24957a10e7baa1a5d0a",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP241-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0241dg.mp3"
+    },
+    {
+      "episode": "EP242",
+      "title": "Learning The Piano",
+      "kind": "dialogue",
+      "filename": "EP242-dialogue.mp3",
+      "bytes": 1102661,
+      "sha256": "b44936c66ca1d0f71fd8665a2132333f9cadef25807cf2f9908a7db61996a149",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP242-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0242dg.mp3"
+    },
+    {
+      "episode": "EP243",
+      "title": "Talking to a Travel Agent",
+      "kind": "dialogue",
+      "filename": "EP243-dialogue.mp3",
+      "bytes": 856692,
+      "sha256": "52b9aa206912e39779d610b39aefd050819c6af998fae3964672f5041653cccc",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP243-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0243dg.mp3"
+    },
+    {
+      "episode": "EP244",
+      "title": "Interview Skills Part 4 - Talking About Work Experience",
+      "kind": "dialogue",
+      "filename": "EP244-dialogue.mp3",
+      "bytes": 528197,
+      "sha256": "ef78b284c4eb08db4b04f1138fb1548f91912550f40a52aeac6217475b00d1c9",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP244-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0244dg.mp3"
+    },
+    {
+      "episode": "EP245",
+      "title": "Getting A Subscription",
+      "kind": "dialogue",
+      "filename": "EP245-dialogue.mp3",
+      "bytes": 507090,
+      "sha256": "6da4184b7140c4d30e726b626eef911ebe5da8b7feb0d51754ddedf8371a71c2",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP245-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0245dg.mp3"
+    },
+    {
+      "episode": "EP246",
+      "title": "At The Train Station",
+      "kind": "dialogue",
+      "filename": "EP246-dialogue.mp3",
+      "bytes": 524017,
+      "sha256": "1b67479dc2fb9d85e6b6a7c97840ff293e3af9eb12ad30f9968ba5ecdc9c1563",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP246-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0246dg.mp3"
+    },
+    {
+      "episode": "EP247",
+      "title": "Interview Skills Part 5 - Discussing Reasons For Leaving Previous Position",
+      "kind": "dialogue",
+      "filename": "EP247-dialogue.mp3",
+      "bytes": 493715,
+      "sha256": "4ff221f93ecc05f77246a71b5a8504edd8f659d73c16d3c14808b893bfbd98ce",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP247-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0247dg.mp3"
+    },
+    {
+      "episode": "EP248",
+      "title": "Dinnerware",
+      "kind": "dialogue",
+      "filename": "EP248-dialogue.mp3",
+      "bytes": 400949,
+      "sha256": "1c9a10f2b9c50030c125cd8a802ea003b2671bd44ecc246f983d8e6ed272f746",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP248-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0248dg.mp3"
+    },
+    {
+      "episode": "EP249",
+      "title": "Making A Sandwich",
+      "kind": "dialogue",
+      "filename": "EP249-dialogue.mp3",
+      "bytes": 992738,
+      "sha256": "ebb807248b00aad5c07a2aab40da5261c7141e94101e8144a9a01ef7ffea7dbc",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP249-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0249dg.mp3"
+    },
+    {
+      "episode": "EP250",
+      "title": "Interview Skills Part 6 - Describing One's Strengths",
+      "kind": "dialogue",
+      "filename": "EP250-dialogue.mp3",
+      "bytes": 486401,
+      "sha256": "335d05d1d4fb2931ac9f75b13fd98e275d8a7a4a5e9fd4a066ea2cc54efbf3f0",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP250-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0250dg.mp3"
+    },
+    {
+      "episode": "EP251",
+      "title": "Buying Makeup",
+      "kind": "dialogue",
+      "filename": "EP251-dialogue.mp3",
+      "bytes": 608027,
+      "sha256": "cdee63a7f3e0b9c99efa29640a1e215feeaae56e4675dd654450cfc818e68623",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP251-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0251dg.mp3"
+    },
+    {
+      "episode": "EP252",
+      "title": "Contraceptives",
+      "kind": "dialogue",
+      "filename": "EP252-dialogue.mp3",
+      "bytes": 896189,
+      "sha256": "12036708d28ff6d81bf6a2400c9651748771698bb06baf7d1ec914c145a47796",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP252-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0252dg.mp3"
+    },
+    {
+      "episode": "EP253",
+      "title": "Interview Skill 7 - Describing One's Weaknesses",
+      "kind": "dialogue",
+      "filename": "EP253-dialogue.mp3",
+      "bytes": 567694,
+      "sha256": "6ea555fd4be30b5eab4d80fed10895db7e716e5aac442941ac3d5ebfc6074352",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP253-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0253dg.mp3"
+    },
+    {
+      "episode": "EP254",
+      "title": "Making Breakfast",
+      "kind": "dialogue",
+      "filename": "EP254-dialogue.mp3",
+      "bytes": 383604,
+      "sha256": "b0e75ffb17d7cdc2ee542c94faea1325eb66441dbf2e3b3918c2fa46019b3543",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP254-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0254dg.mp3"
+    },
+    {
+      "episode": "EP255",
+      "title": "The Miracle Of Life",
+      "kind": "dialogue",
+      "filename": "EP255-dialogue.mp3",
+      "bytes": 1437823,
+      "sha256": "ac8ad43af630c4aa7bdbb57fc5fd9b20120082867d22454745343bd0d6eef610",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP255-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0255dg.mp3"
+    },
+    {
+      "episode": "EP256",
+      "title": "Interview Skill 8 - Discussing Salary and Benefits",
+      "kind": "dialogue",
+      "filename": "EP256-dialogue.mp3",
+      "bytes": 597787,
+      "sha256": "7174db835e34c8687381dd74d8a5ce899f3c7e9e24b9685ae9571a2b10b60c6e",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP256-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0256dg.mp3"
+    },
+    {
+      "episode": "EP257",
+      "title": "The World Cup",
+      "kind": "dialogue",
+      "filename": "EP257-dialogue.mp3",
+      "bytes": 853766,
+      "sha256": "124f70c45c87323b9af1e47bf437d92e0fd6019c5880980cc4b0b66079fff270",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP257-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0257dg.mp3"
+    },
+    {
+      "episode": "EP258",
+      "title": "You’re Grounded!",
+      "kind": "dialogue",
+      "filename": "EP258-dialogue.mp3",
+      "bytes": 482869,
+      "sha256": "5144f742453f2bced34f42a75d6beec703afc1a1fa9b1ce9b8287403564ab077",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP258-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0258dg.mp3"
+    },
+    {
+      "episode": "EP259",
+      "title": "Interview Skill 9 - Asking For Information About The Position",
+      "kind": "dialogue",
+      "filename": "EP259-dialogue.mp3",
+      "bytes": 487028,
+      "sha256": "f75310c7b696fac2fc26d695fa2a589bee4b8ad020dc66c27eec9e609e154fd2",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP259-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0259dg.mp3"
+    },
+    {
+      "episode": "EP260",
+      "title": "Guns",
+      "kind": "dialogue",
+      "filename": "EP260-dialogue.mp3",
+      "bytes": 702486,
+      "sha256": "6146414d4d592848f147083b12e3951358d0f5d897bdffb072f50290ff486338",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP260-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0260dg.mp3"
+    },
+    {
+      "episode": "EP261",
+      "title": "Describing Someone’s Face",
+      "kind": "dialogue",
+      "filename": "EP261-dialogue.mp3",
+      "bytes": 480780,
+      "sha256": "0fbc593b5b13acd25fd3248a550a73f3e36c2d8a7f8fb7b818858987623aa0bb",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP261-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0261dg.mp3"
+    },
+    {
+      "episode": "EP262",
+      "title": "Interview Skill 10 - Concluding The Interview",
+      "kind": "dialogue",
+      "filename": "EP262-dialogue.mp3",
+      "bytes": 486610,
+      "sha256": "6ea9f171f7aa2308080a3e85d5a05dc3deec1700c068afa0b7fc5de84a9cfbf9",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP262-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0262dg.mp3"
+    },
+    {
+      "episode": "EP263",
+      "title": "Nationalities",
+      "kind": "dialogue",
+      "filename": "EP263-dialogue.mp3",
+      "bytes": 855856,
+      "sha256": "e52b9e38544d9ba5fc23e7d257e57043d436fddcc92e39fee679ef8f48973ea3",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP263-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0263dg.mp3"
+    },
+    {
+      "episode": "EP264",
+      "title": "Toothache",
+      "kind": "dialogue",
+      "filename": "EP264-dialogue.mp3",
+      "bytes": 499379,
+      "sha256": "42d77d49e6745b917b4931fbbf774e4a19eaaaed8eaca10fecfc7e4073ba8acb",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP264-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0264dg.mp3"
+    },
+    {
+      "episode": "EP265",
+      "title": "Pest Control",
+      "kind": "dialogue",
+      "filename": "EP265-dialogue.mp3",
+      "bytes": 479108,
+      "sha256": "c02e0570c31a2ed5a5a387e047d8b33a474f363c0bc0424af3d11e765ef71711",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP265-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0265dg.mp3"
+    },
+    {
+      "episode": "EP266",
+      "title": "Weather Report",
+      "kind": "dialogue",
+      "filename": "EP266-dialogue.mp3",
+      "bytes": 754710,
+      "sha256": "d6cb991a563c3dfa3647af64b77344481bed5998d439e1afa25b1d83880bbc1f",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP266-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0266dg.mp3"
+    },
+    {
+      "episode": "EP267",
+      "title": "Making A Bank Transfer",
+      "kind": "dialogue",
+      "filename": "EP267-dialogue.mp3",
+      "bytes": 560380,
+      "sha256": "c7807820f78743516c312f24bf732bd7e445ce19362f6154c11e1f327acb71d8",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP267-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0267dg.mp3"
+    },
+    {
+      "episode": "EP268",
+      "title": "Purchasing Manager",
+      "kind": "dialogue",
+      "filename": "EP268-dialogue.mp3",
+      "bytes": 630388,
+      "sha256": "64459a84d5dc31040bb08145209c3046a17877ea6e6aa9a74f88ae7db09723b4",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP268-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0268dg.mp3"
+    },
+    {
+      "episode": "EP269",
+      "title": "Marketing Plan",
+      "kind": "dialogue",
+      "filename": "EP269-dialogue.mp3",
+      "bytes": 1006092,
+      "sha256": "9ead331e95d38ff618f3ecc44b799839eb607817485b103ee3a65d16343606af",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP269-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0269dg.mp3"
+    },
+    {
+      "episode": "EP270",
+      "title": "Buying A Suit",
+      "kind": "dialogue",
+      "filename": "EP270-dialogue.mp3",
+      "bytes": 419549,
+      "sha256": "6b7cb110c255f8b7ebcaa022c2cf3baff9dff1439b9d2d15c444d2a64b46a354",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP270-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0270dg.mp3"
+    },
+    {
+      "episode": "EP271",
+      "title": "Presentation Series 1 - The Overview and the Agenda",
+      "kind": "dialogue",
+      "filename": "EP271-dialogue.mp3",
+      "bytes": 900578,
+      "sha256": "f06f87ba5b925818571f74ba113575f0ade9cccb14777b6ff0a2a969fae6b4a1",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP271-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0271dg.mp3"
+    },
+    {
+      "episode": "EP272",
+      "title": "Getting A Nanny",
+      "kind": "dialogue",
+      "filename": "EP272-dialogue.mp3",
+      "bytes": 664452,
+      "sha256": "9edd174e8b4ea79db9dc53945c123d898dd015f6a70a03b1f6418a43335c772c",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP272-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0272dg.mp3"
+    },
+    {
+      "episode": "EP273",
+      "title": "The Zodiac and Horoscopes",
+      "kind": "dialogue",
+      "filename": "EP273-dialogue.mp3",
+      "bytes": 721273,
+      "sha256": "ae5df2fd4805dbcf66373d25708aba7f3debe508a7d5f73713252a2929808358",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP273-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0273dg.mp3"
+    },
+    {
+      "episode": "EP274",
+      "title": "Presentation Series 2 - Talking about numbers, charts and graphs",
+      "kind": "dialogue",
+      "filename": "EP274-dialogue.mp3",
+      "bytes": 911006,
+      "sha256": "c6da3da0666b8e94c68a507c4f02981433f82e6ae555fc671d8cf5e75b2256c5",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP274-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0274dg.mp3"
+    },
+    {
+      "episode": "EP275",
+      "title": "Kitchen Appliances",
+      "kind": "dialogue",
+      "filename": "EP275-dialogue.mp3",
+      "bytes": 473256,
+      "sha256": "de52b68f5edf47036a030ef6f299349f71cf25cc93abeff5a0dba4be4d8529f4",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP275-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0275dg.mp3"
+    },
+    {
+      "episode": "EP276",
+      "title": "Telephone Services",
+      "kind": "dialogue",
+      "filename": "EP276-dialogue.mp3",
+      "bytes": 392381,
+      "sha256": "4c5132bbbff53cf36f9b36244dfa9338ad5e030438b601d5e179ca2d80f375e4",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP276-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0276dg.mp3"
+    },
+    {
+      "episode": "EP277",
+      "title": "Presentation Series 3 - Making Comparisons",
+      "kind": "dialogue",
+      "filename": "EP277-dialogue.mp3",
+      "bytes": 901414,
+      "sha256": "e40df159cceb3605eccfbb7ca18bcf19e567c471da11a91afbb62ca9d89bf0dd",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP277-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0277dg.mp3"
+    },
+    {
+      "episode": "EP278",
+      "title": "At The Car Dealership",
+      "kind": "dialogue",
+      "filename": "EP278-dialogue.mp3",
+      "bytes": 731952,
+      "sha256": "e52522aacb0ecb1ca9e49b06066edd03f0a9d401829db4ce17279dec9e0ee21a",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP278-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0278dg.mp3"
+    },
+    {
+      "episode": "EP279",
+      "title": "Drugs",
+      "kind": "dialogue",
+      "filename": "EP279-dialogue.mp3",
+      "bytes": 473883,
+      "sha256": "94c0293dc7e81171f23cb72d6cb5727ddafeb025a9be33d9e5ce26e9dff388ad",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP279-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0279dg.mp3"
+    },
+    {
+      "episode": "EP280",
+      "title": "Presentation Series 4 - Discussing the Competition",
+      "kind": "dialogue",
+      "filename": "EP280-dialogue.mp3",
+      "bytes": 1019466,
+      "sha256": "e64bb84a1297c6d3845748c1413fdec1dc953703e6e1abd27038a94f85695b89",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP280-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0280dg.mp3"
+    },
+    {
+      "episode": "EP281",
+      "title": "Breaking Up",
+      "kind": "dialogue",
+      "filename": "EP281-dialogue.mp3",
+      "bytes": 673647,
+      "sha256": "fdd0f61eedfac3c8b490cf91eebbe255bda7347ce4198a9380d31c742238b976",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP281-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0281dg.mp3"
+    },
+    {
+      "episode": "EP282",
+      "title": "Physics",
+      "kind": "dialogue",
+      "filename": "EP282-dialogue.mp3",
+      "bytes": 890526,
+      "sha256": "bbba1ae7b41244152a63ca2b5c6c82305140defbd3c5a44e2edb54b3cf253e42",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP282-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0282dg.mp3"
+    },
+    {
+      "episode": "EP283",
+      "title": "Presentation Series 5 - Deferring Questions",
+      "kind": "dialogue",
+      "filename": "EP283-dialogue.mp3",
+      "bytes": 998986,
+      "sha256": "5d073055ae140b81fbb131a62d79122b546905154a51aec70df52d71634b93d8",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP283-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0283dg.mp3"
+    },
+    {
+      "episode": "EP284",
+      "title": "Tune Up",
+      "kind": "dialogue",
+      "filename": "EP284-dialogue.mp3",
+      "bytes": 651913,
+      "sha256": "c5dee2e1451dfc3dacc6077ed4fcd922f7b926853ecf7513785b1c04c4f81d36",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP284-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0284dg.mp3"
+    },
+    {
+      "episode": "EP285",
+      "title": "Handyman",
+      "kind": "dialogue",
+      "filename": "EP285-dialogue.mp3",
+      "bytes": 424982,
+      "sha256": "3129565b5dd18aea8f04a6d0446e9c9afd3291ea280af73e3a03d2555cf2db1f",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP285-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0285dg.mp3"
+    },
+    {
+      "episode": "EP286",
+      "title": "Presentation Series 6 - Addressing the Audience",
+      "kind": "dialogue",
+      "filename": "EP286-dialogue.mp3",
+      "bytes": 882815,
+      "sha256": "9e920515a94a67e41ab76b5ebe60feecf43d23212f7af9476b3b1d106287ba1f",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP286-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0286dg.mp3"
+    },
+    {
+      "episode": "EP287",
+      "title": "High School Reunion",
+      "kind": "dialogue",
+      "filename": "EP287-dialogue.mp3",
+      "bytes": 578561,
+      "sha256": "cfe39f69f9d360bd6aad7eb505cff12a1eb84e8954b3758d36927f2d0e264646",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP287-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0287dg.mp3"
+    },
+    {
+      "episode": "EP288",
+      "title": "Getting A Tattoo",
+      "kind": "dialogue",
+      "filename": "EP288-dialogue.mp3",
+      "bytes": 521928,
+      "sha256": "16b8c55cc12eca3823f2b76c50627d0b54c459516e5ca0c125dbb5a96b4040e0",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP288-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0288dg.mp3"
+    },
+    {
+      "episode": "EP289",
+      "title": "Presentation Series 7 - Handling Technical Problems",
+      "kind": "dialogue",
+      "filename": "EP289-dialogue.mp3",
+      "bytes": 802566,
+      "sha256": "159ae2364d76c74a2184eac9f3d2b6623b81b85954531a20e75da5dbd7768b1a",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP289-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0289dg.mp3"
+    },
+    {
+      "episode": "EP290",
+      "title": "Buying Jewelery",
+      "kind": "dialogue",
+      "filename": "EP290-dialogue.mp3",
+      "bytes": 1047261,
+      "sha256": "bc8c2d678cf086717a6265a65a82134908d8c7f0f59d6f323b28be03753deece",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP290-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0290dg.mp3"
+    },
+    {
+      "episode": "EP291",
+      "title": "Ordering Chinese Food",
+      "kind": "dialogue",
+      "filename": "EP291-dialogue.mp3",
+      "bytes": 729632,
+      "sha256": "3f82eae7bcd55d1ce290216dcd116bdb1dd641a9342b229e39ce4839dfb168fe",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP291-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0291dg.mp3"
+    },
+    {
+      "episode": "EP292",
+      "title": "Presentation Series 8 - Common Presentation Mistakes",
+      "kind": "dialogue",
+      "filename": "EP292-dialogue.mp3",
+      "bytes": 1062307,
+      "sha256": "84e23420e64e4a15d4d24b368cb899965d3d03a37e557403c13d7297ce95d8b7",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP292-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0292dg.mp3"
+    },
+    {
+      "episode": "EP293",
+      "title": "Cheese Lovers",
+      "kind": "dialogue",
+      "filename": "EP293-dialogue.mp3",
+      "bytes": 1038922,
+      "sha256": "fba6189bc7e393883342ae7327e31450e5b81c79c9cf827a32c0e07af4d7c021",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP293-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0293dg.mp3"
+    },
+    {
+      "episode": "EP294",
+      "title": "Picking A University",
+      "kind": "dialogue",
+      "filename": "EP294-dialogue.mp3",
+      "bytes": 512733,
+      "sha256": "ae1321af5833b96c62946badfe443bf6b327c942954cb3cd694dd681b77b52ad",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP294-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0294dg.mp3"
+    },
+    {
+      "episode": "EP295",
+      "title": "Presentation Series 9 - Summary and Conclusion",
+      "kind": "dialogue",
+      "filename": "EP295-dialogue.mp3",
+      "bytes": 890108,
+      "sha256": "b1aa6c1992b2fce34d178fd5fc05b34302b1430e95579b7dce8f2deb729624f1",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP295-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0295dg.mp3"
+    },
+    {
+      "episode": "EP296",
+      "title": "Vegan Or Vegetarian?",
+      "kind": "dialogue",
+      "filename": "EP296-dialogue.mp3",
+      "bytes": 525062,
+      "sha256": "45f6d8d14188c3d023d1a301d208fa1c6a491f0e8760889d1c83271b58d0e2bc",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP296-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0296dg.mp3"
+    },
+    {
+      "episode": "EP297",
+      "title": "Ordering At An Italian Restaurant",
+      "kind": "dialogue",
+      "filename": "EP297-dialogue.mp3",
+      "bytes": 432923,
+      "sha256": "7409810962ed4dea716ddd9c68cf9a3972ba21698ce55e7cc9893db52efb174f",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP297-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0297dg.mp3"
+    },
+    {
+      "episode": "EP298",
+      "title": "Presentation Series 10 - The Q and A Session",
+      "kind": "dialogue",
+      "filename": "EP298-dialogue.mp3",
+      "bytes": 872784,
+      "sha256": "e8c6dfb94d13cd6516fa684a45fa654e946e499fbbff69e35b2fb6c8e4c5d560",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP298-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0298dg.mp3"
+    },
+    {
+      "episode": "EP299",
+      "title": "Returning A Product",
+      "kind": "dialogue",
+      "filename": "EP299-dialogue.mp3",
+      "bytes": 463016,
+      "sha256": "2d8a0b3aef659fe90d925c508eb8d298efff33ed3fdbde12afa919fa42ee51b0",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP299-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0299dg.mp3"
+    },
+    {
+      "episode": "EP300",
+      "title": "Online Dating",
+      "kind": "dialogue",
+      "filename": "EP300-dialogue.mp3",
+      "bytes": 525898,
+      "sha256": "b703c97cc172b20ca7e80dab9b588064129d9fb543c76347c2bd8506ad8b6a20",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP300-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0300dg.mp3"
+    },
+    {
+      "episode": "EP301",
+      "title": "Vampires",
+      "kind": "dialogue",
+      "filename": "EP301-dialogue.mp3",
+      "bytes": 486004,
+      "sha256": "c6ff93ede93ee5a525ce2f4c007bf0e82b460a4dd94344ef6483d413fb637cd8",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP301-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0301dg.mp3"
+    },
+    {
+      "episode": "EP302",
+      "title": "Phobias",
+      "kind": "dialogue",
+      "filename": "EP302-dialogue.mp3",
+      "bytes": 625373,
+      "sha256": "2f24249e097b6abb345f402db4e4c1e04ec6bd8a36adb6deab78d6b577a4fdf1",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP302-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0302dg.mp3"
+    },
+    {
+      "episode": "EP303",
+      "title": "Mexican Food",
+      "kind": "dialogue",
+      "filename": "EP303-dialogue.mp3",
+      "bytes": 356228,
+      "sha256": "6f1444c36aec2808ef821b0000a0ec572938f17b4d995ac889a4972c008bd421",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP303-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0303dg.mp3"
+    },
+    {
+      "episode": "EP304",
+      "title": "Neat Freak",
+      "kind": "dialogue",
+      "filename": "EP304-dialogue.mp3",
+      "bytes": 440238,
+      "sha256": "e775b24665c1de2dff992c213020bea08e99a89a773d51c77b8e44c320306ecd",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP304-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0304dg.mp3"
+    },
+    {
+      "episode": "EP305",
+      "title": "Bowling",
+      "kind": "dialogue",
+      "filename": "EP305-dialogue.mp3",
+      "bytes": 522346,
+      "sha256": "4e82ac21dccb061e1a5abfa50a41861074f84a71f86e79c81639b8ea98643a19",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP305-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0305dg.mp3"
+    },
+    {
+      "episode": "EP306",
+      "title": "Pick Up Lines",
+      "kind": "dialogue",
+      "filename": "EP306-dialogue.mp3",
+      "bytes": 552230,
+      "sha256": "8f01518527781937246fc41435f8097399eccf80b7f2f0f201937d079580045e",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP306-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0306dg.mp3"
+    },
+    {
+      "episode": "EP307",
+      "title": "Small Talk 1 - Showing Interest",
+      "kind": "dialogue",
+      "filename": "EP307-dialogue.mp3",
+      "bytes": 483893,
+      "sha256": "9a94e0c00aa00ae166112bbd3385a1eef60d7ade13410830c28e740721f20bc7",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP307-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0307dg.mp3"
+    },
+    {
+      "episode": "EP308",
+      "title": "Boxers and Briefs",
+      "kind": "dialogue",
+      "filename": "EP308-dialogue.mp3",
+      "bytes": 279741,
+      "sha256": "680b31d0b1381654e2b0615e8e89724b018b7a0c20d379e0e03e27e583a2b59a",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP308-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0308dg.mp3"
+    },
+    {
+      "episode": "EP309",
+      "title": "Indian Food",
+      "kind": "dialogue",
+      "filename": "EP309-dialogue.mp3",
+      "bytes": 658182,
+      "sha256": "23351386fe1e740b8bf042272c3d195f0635bbc031d35b91c6cb161ba79973f5",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP309-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0309dg.mp3"
+    },
+    {
+      "episode": "EP310",
+      "title": "Small Talk 2",
+      "kind": "dialogue",
+      "filename": "EP310-dialogue.mp3",
+      "bytes": 519002,
+      "sha256": "708b356afacd93f5d931c5fa49cff9a5420d45e405b1f74ba504217ac4e3a184",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP310-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0310dg.mp3"
+    },
+    {
+      "episode": "EP311",
+      "title": "Sorry I’m Late",
+      "kind": "dialogue",
+      "filename": "EP311-dialogue.mp3",
+      "bytes": 478063,
+      "sha256": "81137ff2084d3e5b84cda33b27cc6ebebe06122b7f7c749d1a853a5dd87572a4",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP311-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0311dg.mp3"
+    },
+    {
+      "episode": "EP312",
+      "title": "Ordering Drinks",
+      "kind": "dialogue",
+      "filename": "EP312-dialogue.mp3",
+      "bytes": 410771,
+      "sha256": "9640f112e2446297a49b3b3fc3c30fdd5b06b9e3f7c6b492202708a6d102f1fd",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP312-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0312dg.mp3"
+    },
+    {
+      "episode": "EP313",
+      "title": "Small talk 3",
+      "kind": "dialogue",
+      "filename": "EP313-dialogue.mp3",
+      "bytes": 416623,
+      "sha256": "fc7fed7a2885d6a5ee988d80a8e1b5ad444a727ff05a3e6ec65e070e7130aad7",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP313-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0313dg.mp3"
+    },
+    {
+      "episode": "EP314",
+      "title": "Making A Collect Call",
+      "kind": "dialogue",
+      "filename": "EP314-dialogue.mp3",
+      "bytes": 595509,
+      "sha256": "2d51b4e15497b5cd685452b28453bd666497956ff830e4fb48bc7f88c37620f9",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP314-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0314dg.mp3"
+    },
+    {
+      "episode": "EP315",
+      "title": "Sending A Quote Via Email",
+      "kind": "dialogue",
+      "filename": "EP315-dialogue.mp3",
+      "bytes": 1140486,
+      "sha256": "04ec2c51c80b8adee28246b77449a4d2810641f6aa1a7ad277789652e146a3c6",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP315-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0315dg.mp3"
+    },
+    {
+      "episode": "EP316",
+      "title": "Small Talk 4 - Discussing Recent Workevents",
+      "kind": "dialogue",
+      "filename": "EP316-dialogue.mp3",
+      "bytes": 416623,
+      "sha256": "9b3c4f025ff81b81ae1889827a48782d9e0acee4bf94761cb9545f919194b667",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP316-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0316dg.mp3"
+    },
+    {
+      "episode": "EP317",
+      "title": "First Paycheck",
+      "kind": "dialogue",
+      "filename": "EP317-dialogue.mp3",
+      "bytes": 1035349,
+      "sha256": "f2368c595ec43c81733f732aa7f6d9fd7f19897265a5b2a87e1dd3491c0314c5",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP317-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0317dg.mp3"
+    },
+    {
+      "episode": "EP318",
+      "title": "Allergies",
+      "kind": "dialogue",
+      "filename": "EP318-dialogue.mp3",
+      "bytes": 677826,
+      "sha256": "14c1eb51ff8419bb56668f7414a0515b42c4848ac6317ce5bcc8b5b0395055f5",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP318-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0318dg.mp3"
+    },
+    {
+      "episode": "EP319",
+      "title": "Small Talk 5 - Brief Talk With A Stranger",
+      "kind": "dialogue",
+      "filename": "EP319-dialogue.mp3",
+      "bytes": 470937,
+      "sha256": "a68beaab99c6c0cdb072a4a6f56dc738f71618bb79b580f56ec66f749f848c75",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP319-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0319dg.mp3"
+    },
+    {
+      "episode": "EP320",
+      "title": "Taking The GMAT",
+      "kind": "dialogue",
+      "filename": "EP320-dialogue.mp3",
+      "bytes": 642300,
+      "sha256": "429239cfd8331013d65c238cd3b897a244710757c155f0d5abcd013950f201e4",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP320-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0320dg.mp3"
+    },
+    {
+      "episode": "EP321",
+      "title": "Thai Food",
+      "kind": "dialogue",
+      "filename": "EP321-dialogue.mp3",
+      "bytes": 726101,
+      "sha256": "a85fb96b42464573c74373b77ce86918c552f734d852411b056142c568ea26be",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP321-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0321dg.mp3"
+    },
+    {
+      "episode": "EP322",
+      "title": "Small Talk 6 - Talking About Yourself",
+      "kind": "dialogue",
+      "filename": "EP322-dialogue.mp3",
+      "bytes": 402830,
+      "sha256": "d0febf44d39b038e53fd27bfbc82450466d716bf8ce6252cbf0f15d730b0fc15",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP322-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0322dg.mp3"
+    },
+    {
+      "episode": "EP323",
+      "title": "Cancelled Flight",
+      "kind": "dialogue",
+      "filename": "EP323-dialogue.mp3",
+      "bytes": 458210,
+      "sha256": "e66ffb1d55b1e061e6d66a3bb1be90fa64d0146fc6fa8707ee5e6df2f3ec89aa",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP323-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0323dg.mp3"
+    },
+    {
+      "episode": "EP324",
+      "title": "Thanksgiving Dinner",
+      "kind": "dialogue",
+      "filename": "EP324-dialogue.mp3",
+      "bytes": 582323,
+      "sha256": "e3ec594ed309277b3544cc01bdb646943ce83b81d94425c37ce7cb09623643bc",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP324-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0324dg.mp3"
+    },
+    {
+      "episode": "EP325",
+      "title": "Small Talk 7 - Talking About A Trip",
+      "kind": "dialogue",
+      "filename": "EP325-dialogue.mp3",
+      "bytes": 503120,
+      "sha256": "7301410f065722eed065ef45ac5610708e17f49e0acc3a95fb8c2db3518abaf6",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP325-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0325dg.mp3"
+    },
+    {
+      "episode": "EP326",
+      "title": "Report Card",
+      "kind": "dialogue",
+      "filename": "EP326-dialogue.mp3",
+      "bytes": 424773,
+      "sha256": "d94bf6909fbb90350b92be3e3dc0e5c4bb40719a03b27cc0b188c91f5d3d79f6",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP326-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0326dg.mp3"
+    },
+    {
+      "episode": "EP327",
+      "title": "Buying A Pair Of Jeans",
+      "kind": "dialogue",
+      "filename": "EP327-dialogue.mp3",
+      "bytes": 535114,
+      "sha256": "5afa40de93825b2eb32f322f06b5621b43e876ab50b8676d06c9391df73593ec",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP327-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0327dg.mp3"
+    },
+    {
+      "episode": "EP328",
+      "title": "Small Talk 8 - Talking About Work",
+      "kind": "dialogue",
+      "filename": "EP328-dialogue.mp3",
+      "bytes": 425797,
+      "sha256": "68a8c529bf3163f6c525e38651ecd02eb9cc4dac6a5c26e968d6683ace1aacbd",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP328-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0328dg.mp3"
+    },
+    {
+      "episode": "EP329",
+      "title": "Going To The Bakery",
+      "kind": "dialogue",
+      "filename": "EP329-dialogue.mp3",
+      "bytes": 361661,
+      "sha256": "b663710c88be0e5275f5b8f71500cf00353187fdb6d517eae761364ecd92165b",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP329-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0329dg.mp3"
+    },
+    {
+      "episode": "EP330",
+      "title": "Fortune Telling",
+      "kind": "dialogue",
+      "filename": "EP330-dialogue.mp3",
+      "bytes": 556409,
+      "sha256": "ece7ca8ec264fe9080f50f59098712909be48d1763e67ec80c025655d820e822",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP330-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0330dg.mp3"
+    },
+    {
+      "episode": "EP331",
+      "title": "Small Talk 9 - Talking About The Weather",
+      "kind": "dialogue",
+      "filename": "EP331-dialogue.mp3",
+      "bytes": 593399,
+      "sha256": "fd1bc2a18ee7ad7aa6cb873c2405c78d909bc37d19b03a807ad573003ff895d1",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP331-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0331dg.mp3"
+    },
+    {
+      "episode": "EP332",
+      "title": "Setting Up Your Voice mail Message",
+      "kind": "dialogue",
+      "filename": "EP332-dialogue.mp3",
+      "bytes": 531332,
+      "sha256": "a36bfa8d63c23748d41c4d621519b228e6b1b4a113358d7a6766d6facee397c3",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP332-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0332dg.mp3"
+    },
+    {
+      "episode": "EP333",
+      "title": "Human Anatmoy",
+      "kind": "dialogue",
+      "filename": "EP333-dialogue.mp3",
+      "bytes": 611580,
+      "sha256": "f6da94d6aab900d237635f028d1e380b2b457ff1526da4c2e609869dcc29350a",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP333-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0333dg.mp3"
+    },
+    {
+      "episode": "EP334",
+      "title": "Small Talk 10 - General Talk",
+      "kind": "dialogue",
+      "filename": "EP334-dialogue.mp3",
+      "bytes": 454009,
+      "sha256": "abdee108df1169d04f262a4de100f6a3a39a837de9c1b94c8a1509149a0f76aa",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP334-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0334dg.mp3"
+    },
+    {
+      "episode": "EP335",
+      "title": "Going To The Playground",
+      "kind": "dialogue",
+      "filename": "EP335-dialogue.mp3",
+      "bytes": 384440,
+      "sha256": "29ea2b91cacd4432b70c25974e4673c8717bae7ef730b9ae89bc0e1cf73945f7",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP335-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0335dg.mp3"
+    },
+    {
+      "episode": "EP336",
+      "title": "Christmas Traditions",
+      "kind": "dialogue",
+      "filename": "EP336-dialogue.mp3",
+      "bytes": 554528,
+      "sha256": "1016727551acbda501e307e6e7ae7549550d89acc56b4418d4bd027b9252e937",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP336-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0336dg.mp3"
+    },
+    {
+      "episode": "EP337",
+      "title": "The Night Before Christmas",
+      "kind": "dialogue",
+      "filename": "EP337-dialogue.mp3",
+      "bytes": 1663291,
+      "sha256": "2da1052667f7aef92167d73c8dcdf5a5827f9868fc22922a22f089f1ffd8f892",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP337-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0337dg.mp3"
+    },
+    {
+      "episode": "EP338",
+      "title": "Having Leftovers",
+      "kind": "dialogue",
+      "filename": "EP338-dialogue.mp3",
+      "bytes": 478251,
+      "sha256": "4affa824f8e31e12293af8981c5fbf9f348159afe77e9e48f6156bd5e395c810",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP338-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0338dg.mp3"
+    },
+    {
+      "episode": "EP339",
+      "title": "Parent Teacher Conference",
+      "kind": "dialogue",
+      "filename": "EP339-dialogue.mp3",
+      "bytes": 586711,
+      "sha256": "b51fbe9d25863e7c30a52043a3f40e9f7516822e8d7e703ff8aea2111632ad61",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP339-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0339dg.mp3"
+    },
+    {
+      "episode": "EP340",
+      "title": "Happy New Year!",
+      "kind": "dialogue",
+      "filename": "EP340-dialogue.mp3",
+      "bytes": 457980,
+      "sha256": "3709af13630da0588a65fd88c6b1c64e6790c4455a0985f228da3877eb03f00b",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP340-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0340dg.mp3"
+    },
+    {
+      "episode": "EP341",
+      "title": "Baking A Cake",
+      "kind": "dialogue",
+      "filename": "EP341-dialogue.mp3",
+      "bytes": 576053,
+      "sha256": "99a1300ee92ef12f2a6eb75f905bb269f22d30a7e00ba609631ce7bf095e7b4a",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP341-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0341dg.mp3"
+    },
+    {
+      "episode": "EP342",
+      "title": "At The Library",
+      "kind": "dialogue",
+      "filename": "EP342-dialogue.mp3",
+      "bytes": 668255,
+      "sha256": "9a6108021bff961d2c3d568775f4ed3cafd5e596c890bb0dede9c2f47d1c4620",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP342-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0342dg.mp3"
+    },
+    {
+      "episode": "EP343",
+      "title": "Seafood Dinner",
+      "kind": "dialogue",
+      "filename": "EP343-dialogue.mp3",
+      "bytes": 532418,
+      "sha256": "9af6b53f620e6b4a032a273e952a6bcdb3ae818d755edc11f732c98d68aaf125",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP343-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0343dg.mp3"
+    },
+    {
+      "episode": "EP344",
+      "title": "Booking A Hotel Room",
+      "kind": "dialogue",
+      "filename": "EP344-dialogue.mp3",
+      "bytes": 430416,
+      "sha256": "d950b9c7e716424d59112ab31d31391c2dea7f11c2bc4375d93bd7f649166b3b",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP344-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0344dg.mp3"
+    },
+    {
+      "episode": "EP345",
+      "title": "Working Out",
+      "kind": "dialogue",
+      "filename": "EP345-dialogue.mp3",
+      "bytes": 421200,
+      "sha256": "f4cd7ac92fb583151f77777f005f54494dc2a804f862682daf9b380365fbf0e7",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP345-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0345dg.mp3"
+    },
+    {
+      "episode": "EP346",
+      "title": "All About Wines",
+      "kind": "dialogue",
+      "filename": "EP346-dialogue.mp3",
+      "bytes": 1181823,
+      "sha256": "a4b9719a9003a12db776dfeb63a71f0bfa9a9945066e388886aac683d439b5f2",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP346-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0346dg.mp3"
+    },
+    {
+      "episode": "EP347",
+      "title": "Immigration and Customs",
+      "kind": "dialogue",
+      "filename": "EP347-dialogue.mp3",
+      "bytes": 541990,
+      "sha256": "179d302ec233740cda7629e465150522b848e47f635ac85133358113a2b1c5eb",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP347-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0347dg.mp3"
+    },
+    {
+      "episode": "EP348",
+      "title": "Talking About Skincare",
+      "kind": "dialogue",
+      "filename": "EP348-dialogue.mp3",
+      "bytes": 408055,
+      "sha256": "ed46d344f60990ea3ac1cf7b31ca3f62a77ef655b5913a38c6c0d297bd463d48",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP348-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0348dg.mp3"
+    },
+    {
+      "episode": "EP349",
+      "title": "Chinese Medicine",
+      "kind": "dialogue",
+      "filename": "EP349-dialogue.mp3",
+      "bytes": 831406,
+      "sha256": "a36f16c599439df15ac3a019580f60901fd846558897a23fb7100a568d81c16d",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP349-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0349dg.mp3"
+    },
+    {
+      "episode": "EP350",
+      "title": "Talking About Relatives",
+      "kind": "dialogue",
+      "filename": "EP350-dialogue.mp3",
+      "bytes": 328158,
+      "sha256": "cfbaec5895c18fb66d0cf7e652ef74860378c4bf3793a167a395b35c6315dd41",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP350-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0350dg.mp3"
+    },
+    {
+      "episode": "EP351",
+      "title": "Vaccinations",
+      "kind": "dialogue",
+      "filename": "EP351-dialogue.mp3",
+      "bytes": 476050,
+      "sha256": "300dfe281d6f0b4ec827a8c7caff5608743c8c4456234662d147230fefc2cc34",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP351-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0351dg.mp3"
+    },
+    {
+      "episode": "EP352",
+      "title": "The 7 Wonders Of The World",
+      "kind": "dialogue",
+      "filename": "EP352-dialogue.mp3",
+      "bytes": 555447,
+      "sha256": "907f4cea237b3b834595bebe6a8876385f87d3ac0a3e506528a4cb56d1f32ae8",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP352-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0352dg.mp3"
+    },
+    {
+      "episode": "EP353",
+      "title": "College Life",
+      "kind": "dialogue",
+      "filename": "EP353-dialogue.mp3",
+      "bytes": 746142,
+      "sha256": "42b2693b390b63611d89c4cd65b3db7dd46b01034b256112db733e54a3ac0463",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP353-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0353dg.mp3"
+    },
+    {
+      "episode": "EP354",
+      "title": "Homeschooling",
+      "kind": "dialogue",
+      "filename": "EP354-dialogue.mp3",
+      "bytes": 427699,
+      "sha256": "dec9a77b151b41af8d6df812c04b9f250df778920dec58eb89bb3c4067e2ccd9",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP354-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0354dg.mp3"
+    },
+    {
+      "episode": "EP355",
+      "title": "Lending Money",
+      "kind": "dialogue",
+      "filename": "EP355-dialogue.mp3",
+      "bytes": 296669,
+      "sha256": "d909eb2452738b6dc0ad64b78ac023fdbe3a46a6266bee8d5987210ba8c950bd",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP355-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0355dg.mp3"
+    },
+    {
+      "episode": "EP356",
+      "title": "Coins and Money",
+      "kind": "dialogue",
+      "filename": "EP356-dialogue.mp3",
+      "bytes": 353720,
+      "sha256": "f8d23ccdc97e35d09467b002dd0a816adda8a5837af37419818af77de42b58a9",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP356-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0356dg.mp3"
+    },
+    {
+      "episode": "EP357",
+      "title": "Making A Dinner Reservation",
+      "kind": "dialogue",
+      "filename": "EP357-dialogue.mp3",
+      "bytes": 294997,
+      "sha256": "c428466a6cec8864dc538dafad78749cccd616a9d58d7901f1ebb0bbc9096e8a",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP357-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0357dg.mp3"
+    },
+    {
+      "episode": "EP358",
+      "title": "Text Me",
+      "kind": "dialogue",
+      "filename": "EP358-dialogue.mp3",
+      "bytes": 308580,
+      "sha256": "efce005564c545db165d66f182255f1cb56f4f3120ff94372425862ca3a96a2e",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP358-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0358dg.mp3"
+    },
+    {
+      "episode": "EP359",
+      "title": "mail Scam",
+      "kind": "dialogue",
+      "filename": "EP359-dialogue.mp3",
+      "bytes": 327180,
+      "sha256": "fdc5233d737a87d89cdfcfd145512a709b4dc7de18a3ca66eae831a7bb30a02e",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP359-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0359dg.mp3"
+    },
+    {
+      "episode": "EP360",
+      "title": "Urban Legends",
+      "kind": "dialogue",
+      "filename": "EP360-dialogue.mp3",
+      "bytes": 479087,
+      "sha256": "a7bf9de59e5799d94d4bbce2c6422d883966292dc949726ed85dcc2fea0f3f89",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP360-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0360dg.mp3"
+    },
+    {
+      "episode": "EP361",
+      "title": "Fast Food",
+      "kind": "dialogue",
+      "filename": "EP361-dialogue.mp3",
+      "bytes": 381932,
+      "sha256": "c4049bdede11952e30cd792e1ebf39af38d35881f04b6adaae3ecec202af9af4",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP361-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0361dg.mp3"
+    },
+    {
+      "episode": "EP362",
+      "title": "What Mood Are You In?",
+      "kind": "dialogue",
+      "filename": "EP362-dialogue.mp3",
+      "bytes": 358109,
+      "sha256": "0be71d9d39d8ab35aef2343fb9b3bbbbb846f63ca294d0a50b3e09f79753acdb",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP362-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0362dg.mp3"
+    },
+    {
+      "episode": "EP363",
+      "title": "Living With Your Parents",
+      "kind": "dialogue",
+      "filename": "EP363-dialogue.mp3",
+      "bytes": 414951,
+      "sha256": "b80cc477d70a4396a8e8197c2e6121d8247013abf4e9922ba188ec3d4303f70a",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP363-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0363dg.mp3"
+    },
+    {
+      "episode": "EP364",
+      "title": "Hiring Help",
+      "kind": "dialogue",
+      "filename": "EP364-dialogue.mp3",
+      "bytes": 428953,
+      "sha256": "f39d0ad254edf36d368be1c2e2e69978bcf27c20e1af50888e57201360ff8498",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP364-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0364dg.mp3"
+    },
+    {
+      "episode": "EP365",
+      "title": "Household Chores",
+      "kind": "dialogue",
+      "filename": "EP365-dialogue.mp3",
+      "bytes": 370856,
+      "sha256": "1c000c54ec462ed8a6c93925f916b2a9012c597cd726623710c768682d6c738f",
+      "downloadUrl": "https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP365-dialogue.mp3",
+      "sourceUrl": "https://archive.org/download/englishpod_all/englishpod_0365dg.mp3"
+    }
+  ]
+}
