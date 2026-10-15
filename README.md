@@ -1,2 +1,22 @@
-# englishpod
-EnglishPod EP001–EP365 original dialogue and podcast audio. Release assets with SHA-256 checksums and source attribution.
+# EnglishPod audio
+
+EnglishPod EP001–EP365 原始音频归档：365 份对话和 365 份完整播客，共 730 个 MP3，2,683,386,630 字节（约 2.50 GiB）。
+
+音频通过 [audio-v1 Release](https://github.com/songmeng20/englishpod/releases/tag/audio-v1) 提供，未重新编码、剪辑、变速或压缩打包。Git 仓库仅保存说明和校验清单，MP3 保存在 Release 附件中。
+
+## Download / 下载
+
+- 对话文件：`EP001-dialogue.mp3` 至 `EP365-dialogue.mp3`。
+- 播客文件：`EP001-podcast.mp3` 至 `EP365-podcast.mp3`。
+- [EP001 对话](https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP001-dialogue.mp3)
+- [EP001 播客](https://github.com/songmeng20/englishpod/releases/download/audio-v1/EP001-podcast.mp3)
+
+每个文件的课号、原标题、大小、SHA-256、来源和下载地址见 [audio-manifest.json](audio-manifest.json)。全部文件下载到同一目录后，可使用 `shasum -a 256 -c SHA256SUMS.txt` 核对。
+
+固定版本下载入口可能重定向至 GitHub 的临时签名 CDN 地址。使用固定版本入口，不保存重定向后的临时地址。不同地区和运营商的可达性可能不同；本归档不承诺中国大陆的网络稳定性或微信小程序域名准入。
+
+## Attribution / 署名与许可
+
+Original work: **EnglishPod (EnglishPod.com)**. Originally published by **Praxis Language**. Original MP3 recordings are provided under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) as identified in the [historical publisher terms](https://web.archive.org/web/20130424034651/http://englishpod.com/terms). See [ATTRIBUTION.md](ATTRIBUTION.md) for source attribution, license scope and modification details.
+
+本仓库为独立整理，与原出版方不存在官方合作或背书关系。
