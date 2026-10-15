@@ -4,7 +4,9 @@ EnglishPod 学习资源归档，按资源类型分目录维护。
 
 ## 目录
 
-- [`audio/`](audio/)：EP001–EP365 对话与完整播客音频的下载入口、逐文件清单、SHA-256 校验值及原作署名。
+- [`audio/dialogue/`](audio/dialogue/)：365 份对话音频，逐课独立下载。
+- [`audio/podcast/`](audio/podcast/)：365 份完整播客音频，逐课独立下载。
+- [`audio/`](audio/)：全部音频的总清单、校验值及原作署名。
 - `text/`：后续文本资源目录，尚未添加内容。
 
 ## 音频下载
