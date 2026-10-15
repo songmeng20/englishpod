@@ -11,9 +11,9 @@ EnglishPod 学习资源归档，按资源类型分目录维护。
 
 ## 音频下载
 
-[打开 audio-v1 Release](https://github.com/songmeng20/englishpod/releases/tag/audio-v1) 下载 365 份对话和 365 份完整播客，共 730 个原始 MP3，约 2.50 GiB。
+请先选择 [对话音频](audio/dialogue/) 或 [播客音频](audio/podcast/)，再点击对应课号的“下载 MP3”。每个链接只下载一个音频；不提供全量或分类音频压缩包。
 
-MP3 以 Release 附件形式保存，文件名为 `EP001-dialogue.mp3`、`EP001-podcast.mp3`，依次至 EP365。GitHub Releases 不支持子目录，因此实际音频附件为平铺列表；仓库中的 `audio/` 集中维护所有音频说明和清单，后续文本与音频分开管理。
+MP3 独立存放于 GitHub Release，文件名为 `EP001-dialogue.mp3`、`EP001-podcast.mp3`，依次至 EP365。仓库中的 `audio/` 按类型提供逐课下载表、说明和清单，后续文本与音频分开管理。
 
 详见 [音频说明](audio/README.md)、[完整清单](audio/audio-manifest.json)和[校验值](audio/SHA256SUMS.txt)。音频保留原始字节，不重新编码、不剪辑、不变速。
 
