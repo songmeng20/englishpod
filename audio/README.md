@@ -4,6 +4,13 @@ EnglishPod EP001–EP365 原始音频归档：365 份对话和 365 份完整播�
 
 音频通过 [audio-v1 Release](https://github.com/songmeng20/englishpod/releases/tag/audio-v1) 提供，未重新编码、剪辑、变速或压缩打包。Git 仓库仅保存说明和校验清单，MP3 保存在 Release 附件中。
 
+## 按类型选择
+
+- [对话音频：365 课逐课独立下载](dialogue/README.md)
+- [播客音频：365 课逐课独立下载](podcast/README.md)
+
+两个目录分别提供该类型的文件清单与 SHA-256 校验值。每份 MP3 是独立附件，下载某课音频不会附带其他文件。
+
 ## Download / 下载
 
 - 对话文件：`EP001-dialogue.mp3` 至 `EP365-dialogue.mp3`。
